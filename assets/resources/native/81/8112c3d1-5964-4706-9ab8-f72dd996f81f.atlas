@@ -1,0 +1,536 @@
+
+longnvtutiaojiao.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+下半身_穿衣
+  rotate: false
+  xy: 0, 1823
+  size: 2565, 2273
+  orig: 2565, 2273
+  offset: 0, 0
+  index: -1
+内裤a
+  rotate: true
+  xy: 3548, 59
+  size: 222, 211
+  orig: 222, 211
+  offset: 0, 0
+  index: -1
+口水
+  rotate: true
+  xy: 1186, 15
+  size: 138, 375
+  orig: 138, 375
+  offset: 0, 0
+  index: -1
+口水1
+  rotate: true
+  xy: 3631, 10
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+右眉
+  rotate: false
+  xy: 3548, 8
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: -1
+右眼睑
+  rotate: false
+  xy: 1561, 32
+  size: 117, 121
+  orig: 117, 121
+  offset: 0, 0
+  index: -1
+右阴唇
+  rotate: false
+  xy: 3307, 1372
+  size: 98, 191
+  orig: 98, 191
+  offset: 0, 0
+  index: -1
+喷水_4
+  rotate: true
+  xy: 3762, 234
+  size: 623, 323
+  orig: 623, 323
+  offset: 0, 0
+  index: -1
+嘴2
+  rotate: true
+  xy: 4052, 1609
+  size: 80, 36
+  orig: 80, 36
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: true
+  xy: 2381, 871
+  size: 692, 926
+  orig: 692, 926
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: true
+  xy: 2371, 2
+  size: 279, 644
+  orig: 279, 644
+  offset: 0, 0
+  index: -1
+头发3
+  rotate: true
+  xy: 1678, 824
+  size: 999, 703
+  orig: 999, 703
+  offset: 0, 0
+  index: -1
+尾巴
+  rotate: true
+  xy: 2565, 2665
+  size: 1431, 1071
+  orig: 1431, 1071
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 2565, 1563
+  size: 842, 1102
+  orig: 842, 1102
+  offset: 0, 0
+  index: -1
+左手_汗
+  rotate: true
+  xy: 0, 981
+  size: 842, 1102
+  orig: 842, 1102
+  offset: 0, 0
+  index: -1
+左眉
+  rotate: true
+  xy: 4061, 3281
+  size: 130, 28
+  orig: 130, 28
+  offset: 0, 0
+  index: -1
+左胸
+  rotate: false
+  xy: 3636, 2965
+  size: 425, 446
+  orig: 425, 446
+  offset: 0, 0
+  index: -1
+左臀切片
+  rotate: true
+  xy: 613, 172
+  size: 201, 428
+  orig: 201, 428
+  offset: 0, 0
+  index: -1
+左阴唇
+  rotate: true
+  xy: 982, 7
+  size: 146, 204
+  orig: 146, 204
+  offset: 0, 0
+  index: -1
+手2
+  rotate: true
+  xy: 0, 0
+  size: 373, 613
+  orig: 373, 613
+  offset: 0, 0
+  index: -1
+手4
+  rotate: true
+  xy: 3015, 3
+  size: 278, 533
+  orig: 278, 533
+  offset: 0, 0
+  index: -1
+手5_1
+  rotate: true
+  xy: 3837, 857
+  size: 404, 249
+  orig: 404, 249
+  offset: 0, 0
+  index: -1
+手5_2
+  rotate: true
+  xy: 2381, 1566
+  size: 257, 144
+  orig: 257, 144
+  offset: 0, 0
+  index: -1
+手5_3
+  rotate: false
+  xy: 613, 1
+  size: 197, 171
+  orig: 197, 171
+  offset: 0, 0
+  index: -1
+手5_4
+  rotate: true
+  xy: 810, 10
+  size: 162, 172
+  orig: 162, 172
+  offset: 0, 0
+  index: -1
+手5_5
+  rotate: false
+  xy: 3962, 2796
+  size: 134, 169
+  orig: 134, 169
+  offset: 0, 0
+  index: -1
+手5_6
+  rotate: true
+  xy: 3962, 2688
+  size: 108, 131
+  orig: 108, 131
+  offset: 0, 0
+  index: -1
+手7
+  rotate: false
+  xy: 3636, 3411
+  size: 443, 685
+  orig: 443, 685
+  offset: 0, 0
+  index: -1
+按摩棒
+  rotate: false
+  xy: 3407, 1259
+  size: 215, 1406
+  orig: 215, 1406
+  offset: 0, 0
+  index: -1
+按摩棒_水
+  rotate: false
+  xy: 3622, 1259
+  size: 215, 1406
+  orig: 215, 1406
+  offset: 0, 0
+  index: -1
+按摩棒_水1
+  rotate: false
+  xy: 3837, 1261
+  size: 215, 1406
+  orig: 215, 1406
+  offset: 0, 0
+  index: -1
+枕头
+  rotate: true
+  xy: 1102, 442
+  size: 1381, 576
+  orig: 1381, 576
+  offset: 0, 0
+  index: -1
+枕头_水
+  rotate: false
+  xy: 2381, 281
+  size: 1381, 576
+  orig: 1381, 576
+  offset: 0, 0
+  index: -1
+枕头角
+  rotate: false
+  xy: 3636, 2667
+  size: 326, 298
+  orig: 326, 298
+  offset: 0, 0
+  index: -1
+水_2
+  rotate: false
+  xy: 4052, 2355
+  size: 41, 333
+  orig: 41, 333
+  offset: 0, 0
+  index: -1
+水_3
+  rotate: false
+  xy: 4052, 2022
+  size: 41, 333
+  orig: 41, 333
+  offset: 0, 0
+  index: -1
+水_4
+  rotate: false
+  xy: 4052, 1689
+  size: 41, 333
+  orig: 41, 333
+  offset: 0, 0
+  index: -1
+水_5
+  rotate: true
+  xy: 3759, 15
+  size: 219, 332
+  orig: 219, 332
+  offset: 0, 0
+  index: -1
+水渍a
+  rotate: false
+  xy: 1075, 153
+  size: 556, 289
+  orig: 556, 289
+  offset: 0, 0
+  index: -1
+汗
+  rotate: true
+  xy: 0, 373
+  size: 608, 1075
+  orig: 608, 1075
+  offset: 0, 0
+  index: -1
+瞳孔
+  rotate: false
+  xy: 3307, 1285
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: true
+  xy: 1678, 26
+  size: 798, 693
+  orig: 798, 693
+  offset: 0, 0
+  index: -1
+锁链2
+  rotate: false
+  xy: 3307, 874
+  size: 496, 385
+  orig: 496, 385
+  offset: 0, 0
+  index: -1
+
+longnvtutiaojiao2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+上半身衣服
+  rotate: false
+  xy: 2565, 2618
+  size: 637, 519
+  orig: 637, 519
+  offset: 0, 0
+  index: -1
+下半身
+  rotate: false
+  xy: 0, 1790
+  size: 2565, 2273
+  orig: 2565, 2273
+  offset: 0, 0
+  index: -1
+右眼
+  rotate: false
+  xy: 1194, 1097
+  size: 99, 70
+  orig: 99, 70
+  offset: 0, 0
+  index: -1
+右臀切片
+  rotate: false
+  xy: 3257, 3476
+  size: 548, 587
+  orig: 548, 587
+  offset: 0, 0
+  index: -1
+喷水
+  rotate: false
+  xy: 884, 1258
+  size: 646, 532
+  orig: 646, 532
+  offset: 0, 0
+  index: -1
+喷水_1
+  rotate: false
+  xy: 3805, 3769
+  size: 286, 294
+  orig: 286, 294
+  offset: 0, 0
+  index: -1
+喷水_2
+  rotate: true
+  xy: 2976, 2030
+  size: 344, 109
+  orig: 344, 109
+  offset: 0, 0
+  index: -1
+喷水_3
+  rotate: true
+  xy: 391, 19
+  size: 300, 114
+  orig: 300, 114
+  offset: 0, 0
+  index: -1
+嘴巴
+  rotate: false
+  xy: 2976, 1934
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 0, 1036
+  size: 884, 754
+  orig: 884, 754
+  offset: 0, 0
+  index: -1
+头发1_1
+  rotate: false
+  xy: 2565, 3137
+  size: 692, 926
+  orig: 692, 926
+  offset: 0, 0
+  index: -1
+头发4
+  rotate: false
+  xy: 2976, 2374
+  size: 236, 244
+  orig: 236, 244
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: true
+  xy: 3714, 3303
+  size: 173, 85
+  orig: 173, 85
+  offset: 0, 0
+  index: -1
+左眼睑1
+  rotate: true
+  xy: 3085, 2192
+  size: 182, 123
+  orig: 182, 123
+  offset: 0, 0
+  index: -1
+手3
+  rotate: true
+  xy: 1530, 1263
+  size: 527, 594
+  orig: 527, 594
+  offset: 0, 0
+  index: -1
+手6_1
+  rotate: true
+  xy: 506, 349
+  size: 687, 299
+  orig: 687, 299
+  offset: 0, 0
+  index: -1
+手6_2
+  rotate: false
+  xy: 884, 1067
+  size: 310, 191
+  orig: 310, 191
+  offset: 0, 0
+  index: -1
+手7_阴影
+  rotate: false
+  xy: 2565, 1918
+  size: 411, 700
+  orig: 411, 700
+  offset: 0, 0
+  index: -1
+按摩棒_水2
+  rotate: true
+  xy: 1194, 1167
+  size: 91, 276
+  orig: 91, 276
+  offset: 0, 0
+  index: -1
+水渍
+  rotate: true
+  xy: 2421, 1522
+  size: 268, 97
+  orig: 268, 97
+  offset: 0, 0
+  index: -1
+水渍b
+  rotate: false
+  xy: 2565, 1814
+  size: 360, 104
+  orig: 360, 104
+  offset: 0, 0
+  index: -1
+留海
+  rotate: false
+  xy: 0, 0
+  size: 391, 319
+  orig: 391, 319
+  offset: 0, 0
+  index: -1
+眼镜
+  rotate: true
+  xy: 3623, 3184
+  size: 292, 91
+  orig: 292, 91
+  offset: 0, 0
+  index: -1
+红掌
+  rotate: false
+  xy: 2124, 1292
+  size: 287, 229
+  orig: 287, 229
+  offset: 0, 0
+  index: -1
+红掌1
+  rotate: false
+  xy: 3805, 3509
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+脖子
+  rotate: true
+  xy: 805, 900
+  size: 136, 78
+  orig: 136, 78
+  offset: 0, 0
+  index: -1
+舌头
+  rotate: false
+  xy: 3085, 2092
+  size: 65, 100
+  orig: 65, 100
+  offset: 0, 0
+  index: -1
+舌头_2
+  rotate: false
+  xy: 2124, 1521
+  size: 297, 269
+  orig: 297, 269
+  offset: 0, 0
+  index: -1
+锁链1
+  rotate: false
+  xy: 0, 319
+  size: 506, 717
+  orig: 506, 717
+  offset: 0, 0
+  index: -1
+马赛克
+  rotate: true
+  xy: 3257, 3169
+  size: 307, 366
+  orig: 307, 366
+  offset: 0, 0
+  index: -1
+
+longnvtutiaojiao3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+下半身_喷水
+  rotate: false
+  xy: 0, 0
+  size: 2565, 2273
+  orig: 2565, 2273
+  offset: 0, 0
+  index: -1

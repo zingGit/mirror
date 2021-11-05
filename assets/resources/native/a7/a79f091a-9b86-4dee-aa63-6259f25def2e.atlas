@@ -1,0 +1,235 @@
+
+nvshourenzhanli.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右刘海
+  rotate: true
+  xy: 3468, 152
+  size: 190, 555
+  orig: 190, 555
+  offset: 0, 0
+  index: -1
+右眉
+  rotate: true
+  xy: 2997, 205
+  size: 121, 58
+  orig: 121, 58
+  offset: 0, 0
+  index: -1
+右眼
+  rotate: true
+  xy: 2997, 326
+  size: 118, 76
+  orig: 118, 76
+  offset: 0, 0
+  index: -1
+右眼睑
+  rotate: false
+  xy: 2701, 15
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+嘴
+  rotate: true
+  xy: 2997, 88
+  size: 117, 49
+  orig: 117, 49
+  offset: 0, 0
+  index: -1
+嘴1
+  rotate: true
+  xy: 3046, 123
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+嘴2
+  rotate: false
+  xy: 2410, 8
+  size: 184, 111
+  orig: 184, 111
+  offset: 0, 0
+  index: -1
+围巾
+  rotate: false
+  xy: 3082, 342
+  size: 566, 838
+  orig: 566, 838
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 1594, 444
+  size: 744, 736
+  orig: 744, 736
+  offset: 0, 0
+  index: -1
+头1
+  rotate: false
+  xy: 2338, 444
+  size: 744, 736
+  orig: 744, 736
+  offset: 0, 0
+  index: -1
+尾巴
+  rotate: true
+  xy: 0, 333
+  size: 847, 1594
+  orig: 847, 1594
+  offset: 0, 0
+  index: -1
+尾巴鬃毛
+  rotate: false
+  xy: 1594, 2
+  size: 816, 442
+  orig: 816, 442
+  offset: 0, 0
+  index: -1
+左刘海
+  rotate: true
+  xy: 2410, 119
+  size: 325, 587
+  orig: 325, 587
+  offset: 0, 0
+  index: -1
+左眉
+  rotate: false
+  xy: 3265, 5
+  size: 134, 127
+  orig: 134, 127
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 0, 154
+  size: 216, 179
+  orig: 216, 179
+  offset: 0, 0
+  index: -1
+左眼睑
+  rotate: false
+  xy: 3073, 4
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+破衣1/胸部
+  rotate: true
+  xy: 3356, 2657
+  size: 718, 510
+  orig: 718, 510
+  offset: 0, 0
+  index: -1
+破衣1/躯干
+  rotate: false
+  xy: 1678, 1180
+  size: 1678, 2913
+  orig: 1678, 2913
+  offset: 0, 0
+  index: -1
+破衣1/项链
+  rotate: true
+  xy: 3356, 1578
+  size: 92, 227
+  orig: 92, 227
+  offset: 0, 0
+  index: -1
+破衣2/胸部
+  rotate: true
+  xy: 3356, 1944
+  size: 713, 510
+  orig: 713, 510
+  offset: 0, 0
+  index: -1
+红晕
+  rotate: false
+  xy: 3468, 0
+  size: 329, 152
+  orig: 329, 152
+  offset: 0, 0
+  index: -1
+红晕1
+  rotate: false
+  xy: 216, 173
+  size: 311, 160
+  orig: 311, 160
+  offset: 0, 0
+  index: -1
+胸部
+  rotate: true
+  xy: 3356, 3375
+  size: 718, 510
+  orig: 718, 510
+  offset: 0, 0
+  index: -1
+脸上汗水
+  rotate: false
+  xy: 3797, 7
+  size: 182, 145
+  orig: 182, 145
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: false
+  xy: 0, 1180
+  size: 1678, 2913
+  orig: 1678, 2913
+  offset: 0, 0
+  index: -1
+遮眼
+  rotate: false
+  xy: 3073, 132
+  size: 395, 210
+  orig: 395, 210
+  offset: 0, 0
+  index: -1
+项链
+  rotate: false
+  xy: 3356, 1670
+  size: 95, 274
+  orig: 95, 274
+  offset: 0, 0
+  index: -1
+马赛克1
+  rotate: true
+  xy: 2594, 14
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+
+nvshourenzhanli2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+头发1
+  rotate: true
+  xy: 0, 0
+  size: 1893, 2222
+  orig: 1893, 2222
+  offset: 0, 0
+  index: -1
+破衣2/躯干
+  rotate: true
+  xy: 0, 1893
+  size: 1678, 2913
+  orig: 1678, 2913
+  offset: 0, 0
+  index: -1
+
+nvshourenzhanli3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手
+  rotate: false
+  xy: 0, 0
+  size: 2901, 2883
+  orig: 2901, 2883
+  offset: 0, 0
+  index: -1

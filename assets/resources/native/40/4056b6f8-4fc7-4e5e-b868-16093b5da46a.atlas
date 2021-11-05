@@ -1,0 +1,501 @@
+
+nvwangzhanli.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+刘海1
+  rotate: false
+  xy: 3934, 191
+  size: 158, 323
+  orig: 158, 323
+  offset: 0, 0
+  index: -1
+刘海2
+  rotate: false
+  xy: 3484, 1528
+  size: 209, 283
+  orig: 209, 283
+  offset: 0, 0
+  index: -1
+刘海3
+  rotate: true
+  xy: 3693, 1525
+  size: 235, 248
+  orig: 235, 248
+  offset: 0, 0
+  index: -1
+右眉
+  rotate: false
+  xy: 885, 37
+  size: 113, 38
+  orig: 113, 38
+  offset: 0, 0
+  index: -1
+右瞳孔
+  rotate: false
+  xy: 717, 26
+  size: 85, 49
+  orig: 85, 49
+  offset: 0, 0
+  index: -1
+右耳
+  rotate: true
+  xy: 271, 6
+  size: 69, 108
+  orig: 69, 108
+  offset: 0, 0
+  index: -1
+右胸
+  rotate: true
+  xy: 3484, 3611
+  size: 484, 599
+  orig: 484, 599
+  offset: 0, 0
+  index: -1
+嘴
+  rotate: false
+  xy: 802, 28
+  size: 83, 47
+  orig: 83, 47
+  offset: 0, 0
+  index: -1
+嘴1
+  rotate: true
+  xy: 3981, 1760
+  size: 197, 101
+  orig: 197, 101
+  offset: 0, 0
+  index: -1
+嘴2
+  rotate: false
+  xy: 143, 2
+  size: 128, 73
+  orig: 128, 73
+  offset: 0, 0
+  index: -1
+头发4
+  rotate: false
+  xy: 3310, 0
+  size: 208, 514
+  orig: 208, 514
+  offset: 0, 0
+  index: -1
+头饰3
+  rotate: false
+  xy: 0, 75
+  size: 1655, 1440
+  orig: 1655, 1440
+  offset: 0, 0
+  index: -1
+左眉
+  rotate: false
+  xy: 3941, 1673
+  size: 150, 87
+  orig: 150, 87
+  offset: 0, 0
+  index: -1
+左眼睑
+  rotate: true
+  xy: 3934, 2
+  size: 189, 116
+  orig: 189, 116
+  offset: 0, 0
+  index: -1
+左瞳孔
+  rotate: false
+  xy: 379, 10
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+左耳
+  rotate: true
+  xy: 0, 2
+  size: 73, 143
+  orig: 73, 143
+  offset: 0, 0
+  index: -1
+左胸
+  rotate: true
+  xy: 3518, 17
+  size: 497, 416
+  orig: 497, 416
+  offset: 0, 0
+  index: -1
+环1
+  rotate: true
+  xy: 579, 3
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+环2
+  rotate: true
+  xy: 618, 6
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+破衣1/右胸
+  rotate: true
+  xy: 3484, 3127
+  size: 484, 599
+  orig: 484, 599
+  offset: 0, 0
+  index: -1
+破衣1/头饰3
+  rotate: false
+  xy: 1655, 75
+  size: 1655, 1440
+  orig: 1655, 1440
+  offset: 0, 0
+  index: -1
+破衣1/左胸
+  rotate: false
+  xy: 3484, 2227
+  size: 497, 416
+  orig: 497, 416
+  offset: 0, 0
+  index: -1
+破衣1/躯干
+  rotate: false
+  xy: 0, 1515
+  size: 1742, 2580
+  orig: 1742, 2580
+  offset: 0, 0
+  index: -1
+破衣2/右胸
+  rotate: true
+  xy: 3484, 2643
+  size: 484, 599
+  orig: 484, 599
+  offset: 0, 0
+  index: -1
+破衣2/左胸
+  rotate: false
+  xy: 3484, 1811
+  size: 497, 416
+  orig: 497, 416
+  offset: 0, 0
+  index: -1
+破衣2/硬币3
+  rotate: false
+  xy: 3981, 2536
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1
+破衣2/硬币4
+  rotate: true
+  xy: 3981, 2325
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+破衣2/躯干
+  rotate: false
+  xy: 1742, 1515
+  size: 1742, 2580
+  orig: 1742, 2580
+  offset: 0, 0
+  index: -1
+硬币
+  rotate: true
+  xy: 3981, 2142
+  size: 79, 110
+  orig: 79, 110
+  offset: 0, 0
+  index: -1
+硬币3
+  rotate: false
+  xy: 3981, 2429
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1
+硬币4
+  rotate: true
+  xy: 3981, 2221
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+蛇1
+  rotate: false
+  xy: 3310, 514
+  size: 776, 723
+  orig: 776, 723
+  offset: 0, 0
+  index: -1
+蛇下巴
+  rotate: false
+  xy: 465, 11
+  size: 114, 64
+  orig: 114, 64
+  offset: 0, 0
+  index: -1
+蛇嘴
+  rotate: true
+  xy: 3941, 1516
+  size: 157, 125
+  orig: 157, 125
+  offset: 0, 0
+  index: -1
+蛇牙
+  rotate: false
+  xy: 3981, 1957
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+蛇舌
+  rotate: true
+  xy: 579, 23
+  size: 52, 138
+  orig: 52, 138
+  offset: 0, 0
+  index: -1
+项链2
+  rotate: false
+  xy: 3310, 1237
+  size: 782, 278
+  orig: 782, 278
+  offset: 0, 0
+  index: -1
+马赛克1
+  rotate: true
+  xy: 3981, 2037
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+
+nvwangzhanli2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+丝巾
+  rotate: true
+  xy: 3036, 829
+  size: 1202, 799
+  orig: 1202, 799
+  offset: 0, 0
+  index: -1
+丝巾2
+  rotate: false
+  xy: 1712, 136
+  size: 1282, 1070
+  orig: 1282, 1070
+  offset: 0, 0
+  index: -1
+刘海4
+  rotate: false
+  xy: 2994, 136
+  size: 218, 693
+  orig: 218, 693
+  offset: 0, 0
+  index: -1
+右手
+  rotate: false
+  xy: 1742, 2903
+  size: 2067, 1184
+  orig: 2067, 1184
+  offset: 0, 0
+  index: -1
+右眼睑
+  rotate: false
+  xy: 3809, 2910
+  size: 149, 98
+  orig: 149, 98
+  offset: 0, 0
+  index: -1
+图层 94
+  rotate: false
+  xy: 3212, 356
+  size: 431, 473
+  orig: 431, 473
+  offset: 0, 0
+  index: -1
+图层95
+  rotate: false
+  xy: 3643, 356
+  size: 431, 473
+  orig: 431, 473
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: true
+  xy: 1305, 94
+  size: 163, 315
+  orig: 163, 315
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: false
+  xy: 3809, 3393
+  size: 272, 694
+  orig: 272, 694
+  offset: 0, 0
+  index: -1
+头发5
+  rotate: true
+  xy: 0, 717
+  size: 790, 1712
+  orig: 790, 1712
+  offset: 0, 0
+  index: -1
+头发6
+  rotate: true
+  xy: 1742, 2031
+  size: 872, 1982
+  orig: 872, 1982
+  offset: 0, 0
+  index: -1
+头饰
+  rotate: true
+  xy: 3212, 23
+  size: 333, 361
+  orig: 333, 361
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 0, 375
+  size: 885, 342
+  orig: 885, 342
+  offset: 0, 0
+  index: -1
+左腿
+  rotate: true
+  xy: 1742, 1206
+  size: 825, 1294
+  orig: 825, 1294
+  offset: 0, 0
+  index: -1
+指头
+  rotate: true
+  xy: 1543, 262
+  size: 99, 129
+  orig: 99, 129
+  offset: 0, 0
+  index: -1
+破衣1/头饰
+  rotate: true
+  xy: 3573, 23
+  size: 333, 361
+  orig: 333, 361
+  offset: 0, 0
+  index: -1
+破衣2/左手
+  rotate: false
+  xy: 0, 33
+  size: 885, 342
+  orig: 885, 342
+  offset: 0, 0
+  index: -1
+破衣2/胸钩1
+  rotate: false
+  xy: 1543, 361
+  size: 150, 356
+  orig: 150, 356
+  offset: 0, 0
+  index: -1
+破衣2/胸钩2
+  rotate: false
+  xy: 3724, 2532
+  size: 171, 371
+  orig: 171, 371
+  offset: 0, 0
+  index: -1
+硬币1
+  rotate: false
+  xy: 3895, 2794
+  size: 99, 116
+  orig: 99, 116
+  offset: 0, 0
+  index: -1
+红晕
+  rotate: true
+  xy: 3809, 3008
+  size: 385, 191
+  orig: 385, 191
+  offset: 0, 0
+  index: -1
+耳环2
+  rotate: true
+  xy: 3724, 2079
+  size: 82, 149
+  orig: 82, 149
+  offset: 0, 0
+  index: -1
+胸钩1
+  rotate: false
+  xy: 3934, 0
+  size: 150, 356
+  orig: 150, 356
+  offset: 0, 0
+  index: -1
+胸钩2
+  rotate: false
+  xy: 3724, 2161
+  size: 171, 371
+  orig: 171, 371
+  offset: 0, 0
+  index: -1
+蛇
+  rotate: false
+  xy: 885, 69
+  size: 420, 648
+  orig: 420, 648
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: false
+  xy: 0, 1507
+  size: 1742, 2580
+  orig: 1742, 2580
+  offset: 0, 0
+  index: -1
+项链
+  rotate: true
+  xy: 1305, 257
+  size: 460, 238
+  orig: 460, 238
+  offset: 0, 0
+  index: -1
+
+nvwangzhanli3.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+破衣1/丝巾
+  rotate: false
+  xy: 0, 0
+  size: 1202, 799
+  orig: 1202, 799
+  offset: 0, 0
+  index: -1
+破衣1/丝巾2
+  rotate: false
+  xy: 0, 799
+  size: 1282, 1070
+  orig: 1282, 1070
+  offset: 0, 0
+  index: -1
+破衣2/丝巾
+  rotate: false
+  xy: 1282, 1070
+  size: 1202, 799
+  orig: 1202, 799
+  offset: 0, 0
+  index: -1
+裙子1
+  rotate: false
+  xy: 2484, 1531
+  size: 342, 338
+  orig: 342, 338
+  offset: 0, 0
+  index: -1

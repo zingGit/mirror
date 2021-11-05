@@ -1,0 +1,648 @@
+
+nvshourentiaojiao.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+体液
+  rotate: false
+  xy: 3986, 1824
+  size: 92, 238
+  orig: 92, 238
+  offset: 0, 0
+  index: -1
+体液1
+  rotate: false
+  xy: 3986, 1313
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+体液2
+  rotate: false
+  xy: 2882, 3194
+  size: 42, 101
+  orig: 42, 101
+  offset: 0, 0
+  index: -1
+体液3
+  rotate: false
+  xy: 3986, 1168
+  size: 49, 145
+  orig: 49, 145
+  offset: 0, 0
+  index: -1
+体液4
+  rotate: true
+  xy: 3571, 2
+  size: 55, 181
+  orig: 55, 181
+  offset: 0, 0
+  index: -1
+体液5
+  rotate: false
+  xy: 3986, 1453
+  size: 61, 75
+  orig: 61, 75
+  offset: 0, 0
+  index: -1
+刘海1
+  rotate: true
+  xy: 760, 3
+  size: 152, 508
+  orig: 152, 508
+  offset: 0, 0
+  index: -1
+发带
+  rotate: true
+  xy: 1743, 361
+  size: 345, 246
+  orig: 345, 246
+  offset: 0, 0
+  index: -1
+史莱姆3_表情A
+  rotate: false
+  xy: 3571, 57
+  size: 520, 277
+  orig: 520, 277
+  offset: 0, 0
+  index: -1
+右手
+  rotate: true
+  xy: 0, 82
+  size: 624, 760
+  orig: 624, 760
+  offset: 0, 0
+  index: -1
+右眉
+  rotate: true
+  xy: 1883, 16
+  size: 51, 104
+  orig: 51, 104
+  offset: 0, 0
+  index: -1
+右眼睑
+  rotate: false
+  xy: 3986, 2224
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+右胸部
+  rotate: false
+  xy: 1989, 22
+  size: 427, 312
+  orig: 427, 312
+  offset: 0, 0
+  index: -1
+右腿藤蔓1勒痕
+  rotate: true
+  xy: 2880, 23
+  size: 311, 325
+  orig: 311, 325
+  offset: 0, 0
+  index: -1
+喷水_2
+  rotate: true
+  xy: 3986, 2579
+  size: 344, 109
+  orig: 344, 109
+  offset: 0, 0
+  index: -1
+嘴巴
+  rotate: true
+  xy: 3986, 2434
+  size: 145, 106
+  orig: 145, 106
+  offset: 0, 0
+  index: -1
+嘴巴1
+  rotate: true
+  xy: 3986, 1528
+  size: 109, 62
+  orig: 109, 62
+  offset: 0, 0
+  index: -1
+尾巴_体液1
+  rotate: true
+  xy: 3752, 3
+  size: 54, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+尾巴_体液2
+  rotate: true
+  xy: 3829, 6
+  size: 51, 152
+  orig: 51, 152
+  offset: 0, 0
+  index: -1
+尾巴_体液3
+  rotate: false
+  xy: 3986, 1637
+  size: 87, 187
+  orig: 87, 187
+  offset: 0, 0
+  index: -1
+尾巴_体液4
+  rotate: true
+  xy: 86, 12
+  size: 70, 188
+  orig: 70, 188
+  offset: 0, 0
+  index: -1
+左眉
+  rotate: true
+  xy: 2882, 2928
+  size: 128, 23
+  orig: 128, 23
+  offset: 0, 0
+  index: -1
+左眼睑
+  rotate: true
+  xy: 3986, 2062
+  size: 162, 93
+  orig: 162, 93
+  offset: 0, 0
+  index: -1
+左腿藤蔓勒痕
+  rotate: false
+  xy: 2416, 23
+  size: 464, 311
+  orig: 464, 311
+  offset: 0, 0
+  index: -1
+手7_2
+  rotate: false
+  xy: 1743, 67
+  size: 246, 294
+  orig: 246, 294
+  offset: 0, 0
+  index: -1
+枪
+  rotate: false
+  xy: 0, 3295
+  size: 2925, 801
+  orig: 2925, 801
+  offset: 0, 0
+  index: -1
+水_2
+  rotate: true
+  xy: 411, 41
+  size: 41, 333
+  orig: 41, 333
+  offset: 0, 0
+  index: -1
+水_3
+  rotate: true
+  xy: 411, 0
+  size: 41, 333
+  orig: 41, 333
+  offset: 0, 0
+  index: -1
+水_4
+  rotate: false
+  xy: 3986, 835
+  size: 41, 333
+  orig: 41, 333
+  offset: 0, 0
+  index: -1
+眼窝
+  rotate: false
+  xy: 1268, 16
+  size: 254, 139
+  orig: 254, 139
+  offset: 0, 0
+  index: -1
+瞳孔
+  rotate: true
+  xy: 3981, 6
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+耳朵
+  rotate: false
+  xy: 1522, 34
+  size: 212, 121
+  orig: 212, 121
+  offset: 0, 0
+  index: -1
+胸罩
+  rotate: false
+  xy: 1993, 2923
+  size: 889, 372
+  orig: 889, 372
+  offset: 0, 0
+  index: -1
+藤蔓2
+  rotate: true
+  xy: 760, 155
+  size: 551, 983
+  orig: 551, 983
+  offset: 0, 0
+  index: -1
+藤蔓5
+  rotate: true
+  xy: 274, 17
+  size: 65, 137
+  orig: 65, 137
+  offset: 0, 0
+  index: -1
+血1
+  rotate: false
+  xy: 3986, 607
+  size: 35, 70
+  orig: 35, 70
+  offset: 0, 0
+  index: -1
+血2
+  rotate: true
+  xy: 274, 1
+  size: 16, 91
+  orig: 16, 91
+  offset: 0, 0
+  index: -1
+血3
+  rotate: false
+  xy: 2882, 3056
+  size: 40, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1
+血4
+  rotate: true
+  xy: 4034, 21
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+血5
+  rotate: false
+  xy: 3986, 677
+  size: 36, 158
+  orig: 36, 158
+  offset: 0, 0
+  index: -1
+血6
+  rotate: false
+  xy: 2882, 3124
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+血7
+  rotate: false
+  xy: 2905, 2949
+  size: 19, 107
+  orig: 19, 107
+  offset: 0, 0
+  index: -1
+血8
+  rotate: true
+  xy: 1734, 3
+  size: 64, 149
+  orig: 64, 149
+  offset: 0, 0
+  index: -1
+血9
+  rotate: true
+  xy: 0, 8
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+裤子
+  rotate: true
+  xy: 2925, 2923
+  size: 1173, 1140
+  orig: 1173, 1140
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: true
+  xy: 0, 706
+  size: 2589, 1993
+  orig: 2589, 1993
+  offset: 0, 0
+  index: -1
+躯干无藤蔓
+  rotate: true
+  xy: 1993, 334
+  size: 2589, 1993
+  orig: 2589, 1993
+  offset: 0, 0
+  index: -1
+马赛克
+  rotate: true
+  xy: 3205, 27
+  size: 307, 366
+  orig: 307, 366
+  offset: 0, 0
+  index: -1
+马赛克1
+  rotate: false
+  xy: 3986, 2327
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+
+nvshourentiaojiao2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+前景藤蔓
+  rotate: true
+  xy: 2182, 166
+  size: 929, 1463
+  orig: 929, 1463
+  offset: 0, 0
+  index: -1
+史莱姆
+  rotate: true
+  xy: 3645, 83
+  size: 341, 395
+  orig: 341, 395
+  offset: 0, 0
+  index: -1
+史莱姆2
+  rotate: true
+  xy: 1119, 286
+  size: 497, 926
+  orig: 497, 926
+  offset: 0, 0
+  index: -1
+史莱姆2_触手A
+  rotate: false
+  xy: 2564, 1098
+  size: 847, 454
+  orig: 847, 454
+  offset: 0, 0
+  index: -1
+右腿藤蔓2
+  rotate: true
+  xy: 0, 23
+  size: 262, 533
+  orig: 262, 533
+  offset: 0, 0
+  index: -1
+右腿藤蔓2勒痕
+  rotate: true
+  xy: 1413, 12
+  size: 274, 457
+  orig: 274, 457
+  offset: 0, 0
+  index: -1
+喷水_1
+  rotate: true
+  xy: 1119, 0
+  size: 286, 294
+  orig: 286, 294
+  offset: 0, 0
+  index: -1
+喷水_3
+  rotate: false
+  xy: 2180, 52
+  size: 300, 114
+  orig: 300, 114
+  offset: 0, 0
+  index: -1
+尾巴
+  rotate: false
+  xy: 0, 285
+  size: 1119, 811
+  orig: 1119, 811
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 1202, 783
+  size: 980, 1320
+  orig: 980, 1320
+  offset: 0, 0
+  index: -1
+手6_2
+  rotate: false
+  xy: 1870, 95
+  size: 310, 191
+  orig: 310, 191
+  offset: 0, 0
+  index: -1
+手7
+  rotate: true
+  xy: 3411, 1109
+  size: 443, 685
+  orig: 443, 685
+  offset: 0, 0
+  index: -1
+手7_1
+  rotate: false
+  xy: 3645, 424
+  size: 443, 685
+  orig: 443, 685
+  offset: 0, 0
+  index: -1
+眼球
+  rotate: true
+  xy: 2045, 519
+  size: 264, 136
+  orig: 264, 136
+  offset: 0, 0
+  index: -1
+脖子
+  rotate: false
+  xy: 828, 125
+  size: 166, 160
+  orig: 166, 160
+  offset: 0, 0
+  index: -1
+舌头伸出
+  rotate: true
+  xy: 2045, 376
+  size: 143, 120
+  orig: 143, 120
+  offset: 0, 0
+  index: -1
+藤蔓1
+  rotate: false
+  xy: 2182, 1095
+  size: 382, 1008
+  orig: 382, 1008
+  offset: 0, 0
+  index: -1
+躯干_高潮
+  rotate: false
+  xy: 0, 2103
+  size: 2587, 1991
+  orig: 2587, 1991
+  offset: 0, 0
+  index: -1
+躯干切片
+  rotate: false
+  xy: 0, 1096
+  size: 1202, 1007
+  orig: 1202, 1007
+  offset: 0, 0
+  index: -1
+项链
+  rotate: true
+  xy: 533, 6
+  size: 279, 295
+  orig: 279, 295
+  offset: 0, 0
+  index: -1
+马尾
+  rotate: true
+  xy: 2587, 1552
+  size: 2542, 1443
+  orig: 2542, 1443
+  offset: 0, 0
+  index: -1
+
+nvshourentiaojiao3.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+刘海2
+  rotate: false
+  xy: 1880, 689
+  size: 355, 458
+  orig: 355, 458
+  offset: 0, 0
+  index: -1
+史莱姆1
+  rotate: false
+  xy: 3568, 1139
+  size: 341, 348
+  orig: 341, 348
+  offset: 0, 0
+  index: -1
+右围巾
+  rotate: false
+  xy: 0, 1120
+  size: 1109, 894
+  orig: 1109, 894
+  offset: 0, 0
+  index: -1
+右腿藤蔓1
+  rotate: false
+  xy: 3220, 1139
+  size: 348, 348
+  orig: 348, 348
+  offset: 0, 0
+  index: -1
+喷水
+  rotate: false
+  xy: 1925, 1482
+  size: 646, 532
+  orig: 646, 532
+  offset: 0, 0
+  index: -1
+头
+  rotate: true
+  xy: 2571, 1465
+  size: 549, 614
+  orig: 549, 614
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: false
+  xy: 2327, 1158
+  size: 235, 324
+  orig: 235, 324
+  offset: 0, 0
+  index: -1
+尾巴_体液
+  rotate: false
+  xy: 3779, 1604
+  size: 212, 410
+  orig: 212, 410
+  offset: 0, 0
+  index: -1
+尾巴鬃毛
+  rotate: false
+  xy: 1109, 1572
+  size: 816, 442
+  orig: 816, 442
+  offset: 0, 0
+  index: -1
+左胸部
+  rotate: false
+  xy: 2562, 1114
+  size: 454, 351
+  orig: 454, 351
+  offset: 0, 0
+  index: -1
+左腿藤蔓
+  rotate: false
+  xy: 1810, 1147
+  size: 517, 335
+  orig: 517, 335
+  offset: 0, 0
+  index: -1
+手2
+  rotate: false
+  xy: 1507, 531
+  size: 373, 613
+  orig: 373, 613
+  offset: 0, 0
+  index: -1
+手3
+  rotate: false
+  xy: 1172, 445
+  size: 335, 699
+  orig: 335, 699
+  offset: 0, 0
+  index: -1
+手3_1
+  rotate: true
+  xy: 3185, 1487
+  size: 527, 594
+  orig: 527, 594
+  offset: 0, 0
+  index: -1
+手3阴影
+  rotate: false
+  xy: 821, 402
+  size: 351, 718
+  orig: 351, 718
+  offset: 0, 0
+  index: -1
+手6_1
+  rotate: false
+  xy: 0, 0
+  size: 687, 299
+  orig: 687, 299
+  offset: 0, 0
+  index: -1
+手7阴影
+  rotate: true
+  xy: 1109, 1144
+  size: 428, 701
+  orig: 428, 701
+  offset: 0, 0
+  index: -1
+藤蔓3
+  rotate: false
+  xy: 0, 299
+  size: 821, 821
+  orig: 821, 821
+  offset: 0, 0
+  index: -1
+藤蔓4
+  rotate: true
+  xy: 1880, 384
+  size: 305, 309
+  orig: 305, 309
+  offset: 0, 0
+  index: -1
+阴部切片
+  rotate: false
+  xy: 3016, 1059
+  size: 204, 406
+  orig: 204, 406
+  offset: 0, 0
+  index: -1

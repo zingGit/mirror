@@ -1,0 +1,600 @@
+
+nvshenguangzhanli.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+中间裙子
+  rotate: false
+  xy: 1328, 2158
+  size: 307, 398
+  orig: 307, 398
+  offset: 0, 0
+  index: -1
+刘海1
+  rotate: false
+  xy: 1419, 561
+  size: 79, 121
+  orig: 79, 121
+  offset: 0, 0
+  index: -1
+刘海2
+  rotate: true
+  xy: 3193, 591
+  size: 79, 160
+  orig: 79, 160
+  offset: 0, 0
+  index: -1
+刘海5
+  rotate: true
+  xy: 3461, 595
+  size: 75, 198
+  orig: 75, 198
+  offset: 0, 0
+  index: -1
+刘海6
+  rotate: false
+  xy: 3502, 98
+  size: 150, 193
+  orig: 150, 193
+  offset: 0, 0
+  index: -1
+刘海7
+  rotate: false
+  xy: 4049, 3446
+  size: 46, 162
+  orig: 46, 162
+  offset: 0, 0
+  index: -1
+刘海8
+  rotate: true
+  xy: 3952, 70
+  size: 58, 142
+  orig: 58, 142
+  offset: 0, 0
+  index: -1
+包
+  rotate: true
+  xy: 113, 2154
+  size: 362, 380
+  orig: 362, 380
+  offset: 0, 0
+  index: -1
+包1
+  rotate: false
+  xy: 493, 2159
+  size: 159, 357
+  orig: 159, 357
+  offset: 0, 0
+  index: -1
+包1a
+  rotate: true
+  xy: 1603, 581
+  size: 101, 378
+  orig: 101, 378
+  offset: 0, 0
+  index: -1
+右手拇指
+  rotate: true
+  xy: 1515, 2562
+  size: 56, 96
+  orig: 56, 96
+  offset: 0, 0
+  index: -1
+右手蕾丝边
+  rotate: false
+  xy: 2015, 2068
+  size: 184, 92
+  orig: 184, 92
+  offset: 0, 0
+  index: -1
+右手衣服1
+  rotate: false
+  xy: 1181, 546
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+右手衣服2
+  rotate: true
+  xy: 1318, 2556
+  size: 62, 132
+  orig: 62, 132
+  offset: 0, 0
+  index: -1
+右手袖子
+  rotate: false
+  xy: 0, 2
+  size: 293, 539
+  orig: 293, 539
+  offset: 0, 0
+  index: -1
+右拳
+  rotate: false
+  xy: 2543, 2267
+  size: 179, 168
+  orig: 179, 168
+  offset: 0, 0
+  index: -1
+右眉
+  rotate: true
+  xy: 3353, 591
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+右眼白
+  rotate: false
+  xy: 1450, 2556
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+右眼睑
+  rotate: false
+  xy: 1317, 556
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+右瞳孔
+  rotate: false
+  xy: 3551, 25
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+右腿
+  rotate: true
+  xy: 2780, 1349
+  size: 679, 1306
+  orig: 679, 1306
+  offset: 0, 0
+  index: -1
+右腿裙子
+  rotate: false
+  xy: 1318, 2618
+  size: 877, 1476
+  orig: 877, 1476
+  offset: 0, 0
+  index: -1
+嘴
+  rotate: false
+  xy: 1981, 545
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+嘴1
+  rotate: true
+  xy: 3502, 8
+  size: 90, 49
+  orig: 90, 49
+  offset: 0, 0
+  index: -1
+嘴2
+  rotate: false
+  xy: 3952, 1
+  size: 86, 69
+  orig: 86, 69
+  offset: 0, 0
+  index: -1
+围脖
+  rotate: false
+  xy: 2725, 3630
+  size: 777, 464
+  orig: 777, 464
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: false
+  xy: 113, 2516
+  size: 603, 1578
+  orig: 603, 1578
+  offset: 0, 0
+  index: -1
+头发3
+  rotate: true
+  xy: 586, 3
+  size: 538, 1468
+  orig: 538, 1468
+  offset: 0, 0
+  index: -1
+头发4
+  rotate: false
+  xy: 716, 2556
+  size: 602, 1538
+  orig: 602, 1538
+  offset: 0, 0
+  index: -1
+头发5
+  rotate: true
+  xy: 2054, 0
+  size: 586, 1448
+  orig: 586, 1448
+  offset: 0, 0
+  index: -1
+头发6
+  rotate: false
+  xy: 2195, 2620
+  size: 530, 1474
+  orig: 530, 1474
+  offset: 0, 0
+  index: -1
+头发7
+  rotate: false
+  xy: 0, 541
+  size: 1138, 1606
+  orig: 1138, 1606
+  offset: 0, 0
+  index: -1
+头发9
+  rotate: false
+  xy: 3502, 291
+  size: 152, 304
+  orig: 152, 304
+  offset: 0, 0
+  index: -1
+左手拇指
+  rotate: true
+  xy: 3406, 592
+  size: 78, 55
+  orig: 78, 55
+  offset: 0, 0
+  index: -1
+左手臂
+  rotate: true
+  xy: 3261, 2059
+  size: 318, 234
+  orig: 318, 234
+  offset: 0, 0
+  index: -1
+左手蕾丝边
+  rotate: false
+  xy: 2929, 590
+  size: 176, 80
+  orig: 176, 80
+  offset: 0, 0
+  index: -1
+左拳
+  rotate: true
+  xy: 2543, 2435
+  size: 185, 181
+  orig: 185, 181
+  offset: 0, 0
+  index: -1
+左眉
+  rotate: true
+  xy: 1138, 545
+  size: 137, 43
+  orig: 137, 43
+  offset: 0, 0
+  index: -1
+左眼白
+  rotate: true
+  xy: 1981, 586
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1
+左瞳孔
+  rotate: true
+  xy: 3105, 590
+  size: 80, 88
+  orig: 80, 88
+  offset: 0, 0
+  index: -1
+左肩
+  rotate: false
+  xy: 1635, 2160
+  size: 305, 458
+  orig: 305, 458
+  offset: 0, 0
+  index: -1
+左腿
+  rotate: false
+  xy: 2725, 2059
+  size: 332, 1107
+  orig: 332, 1107
+  offset: 0, 0
+  index: -1
+左腿裙子
+  rotate: false
+  xy: 2057, 606
+  size: 723, 1422
+  orig: 723, 1422
+  offset: 0, 0
+  index: -1
+左袖
+  rotate: false
+  xy: 2245, 2073
+  size: 298, 547
+  orig: 298, 547
+  offset: 0, 0
+  index: -1
+左袖1
+  rotate: false
+  xy: 3952, 128
+  size: 144, 328
+  orig: 144, 328
+  offset: 0, 0
+  index: -1
+左袖2
+  rotate: true
+  xy: 2863, 588
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+帽子
+  rotate: true
+  xy: 3654, 4
+  size: 452, 298
+  orig: 452, 298
+  offset: 0, 0
+  index: -1
+帽子1
+  rotate: true
+  xy: 3502, 3851
+  size: 243, 564
+  orig: 243, 564
+  offset: 0, 0
+  index: -1
+帽子2
+  rotate: false
+  xy: 3057, 2377
+  size: 432, 789
+  orig: 432, 789
+  offset: 0, 0
+  index: -1
+法杖
+  rotate: false
+  xy: 0, 2147
+  size: 113, 1947
+  orig: 113, 1947
+  offset: 0, 0
+  index: -1
+皮带
+  rotate: true
+  xy: 652, 2169
+  size: 347, 204
+  orig: 347, 204
+  offset: 0, 0
+  index: -1
+破衣1/右手袖子
+  rotate: false
+  xy: 293, 2
+  size: 293, 539
+  orig: 293, 539
+  offset: 0, 0
+  index: -1
+破衣1/右腿
+  rotate: true
+  xy: 2780, 670
+  size: 679, 1306
+  orig: 679, 1306
+  offset: 0, 0
+  index: -1
+破衣1/右腿裙子
+  rotate: false
+  xy: 1138, 682
+  size: 877, 1476
+  orig: 877, 1476
+  offset: 0, 0
+  index: -1
+破衣1/围脖
+  rotate: false
+  xy: 2725, 3166
+  size: 777, 464
+  orig: 777, 464
+  offset: 0, 0
+  index: -1
+破衣1/左肩
+  rotate: false
+  xy: 1940, 2160
+  size: 305, 458
+  orig: 305, 458
+  offset: 0, 0
+  index: -1
+破衣1/帽子1
+  rotate: true
+  xy: 3502, 3608
+  size: 243, 564
+  orig: 243, 564
+  offset: 0, 0
+  index: -1
+破衣1/皮带
+  rotate: true
+  xy: 3057, 2030
+  size: 347, 204
+  orig: 347, 204
+  offset: 0, 0
+  index: -1
+破衣1/胸部
+  rotate: true
+  xy: 3502, 2818
+  size: 790, 547
+  orig: 790, 547
+  offset: 0, 0
+  index: -1
+破衣2/胸部
+  rotate: true
+  xy: 3502, 2028
+  size: 790, 547
+  orig: 790, 547
+  offset: 0, 0
+  index: -1
+红晕
+  rotate: false
+  xy: 3659, 456
+  size: 423, 214
+  orig: 423, 214
+  offset: 0, 0
+  index: -1
+红晕1
+  rotate: true
+  xy: 2543, 2068
+  size: 199, 165
+  orig: 199, 165
+  offset: 0, 0
+  index: -1
+脸
+  rotate: true
+  xy: 856, 2158
+  size: 398, 472
+  orig: 398, 472
+  offset: 0, 0
+  index: -1
+色块1
+  rotate: false
+  xy: 2780, 587
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+色块2
+  rotate: false
+  xy: 652, 2148
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+马赛克1
+  rotate: false
+  xy: 1498, 575
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+
+nvshenguangzhanli2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+刘海3
+  rotate: false
+  xy: 2163, 62
+  size: 164, 207
+  orig: 164, 207
+  offset: 0, 0
+  index: -1
+刘海4
+  rotate: true
+  xy: 2236, 1520
+  size: 86, 195
+  orig: 86, 195
+  offset: 0, 0
+  index: -1
+右手
+  rotate: true
+  xy: 2069, 269
+  size: 166, 299
+  orig: 166, 299
+  offset: 0, 0
+  index: -1
+右肩
+  rotate: true
+  xy: 1373, 6
+  size: 245, 395
+  orig: 245, 395
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: true
+  xy: 0, 0
+  size: 616, 1373
+  orig: 616, 1373
+  offset: 0, 0
+  index: -1
+头发8
+  rotate: false
+  xy: 3946, 1647
+  size: 86, 391
+  orig: 86, 391
+  offset: 0, 0
+  index: -1
+左眼睑
+  rotate: true
+  xy: 2431, 1457
+  size: 149, 165
+  orig: 149, 165
+  offset: 0, 0
+  index: -1
+破衣1/右肩
+  rotate: true
+  xy: 1768, 6
+  size: 245, 395
+  orig: 245, 395
+  offset: 0, 0
+  index: -1
+破衣1/左腿裙子
+  rotate: false
+  xy: 0, 616
+  size: 723, 1422
+  orig: 723, 1422
+  offset: 0, 0
+  index: -1
+破衣1/左袖
+  rotate: false
+  xy: 3648, 1491
+  size: 298, 547
+  orig: 298, 547
+  offset: 0, 0
+  index: -1
+破衣1/帽子2
+  rotate: true
+  xy: 2236, 1606
+  size: 432, 789
+  orig: 432, 789
+  offset: 0, 0
+  index: -1
+破衣1/躯干
+  rotate: false
+  xy: 1446, 871
+  size: 623, 620
+  orig: 623, 620
+  offset: 0, 0
+  index: -1
+破衣1/项链
+  rotate: false
+  xy: 2069, 963
+  size: 314, 528
+  orig: 314, 528
+  offset: 0, 0
+  index: -1
+破衣2/左腿裙子
+  rotate: false
+  xy: 723, 616
+  size: 723, 1422
+  orig: 723, 1422
+  offset: 0, 0
+  index: -1
+破衣2/躯干
+  rotate: false
+  xy: 3025, 1418
+  size: 623, 620
+  orig: 623, 620
+  offset: 0, 0
+  index: -1
+胸部
+  rotate: false
+  xy: 1446, 1491
+  size: 790, 547
+  orig: 790, 547
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: false
+  xy: 1446, 251
+  size: 623, 620
+  orig: 623, 620
+  offset: 0, 0
+  index: -1
+项链
+  rotate: false
+  xy: 2069, 435
+  size: 314, 528
+  orig: 314, 528
+  offset: 0, 0
+  index: -1

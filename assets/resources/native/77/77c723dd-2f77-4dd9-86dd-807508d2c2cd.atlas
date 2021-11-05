@@ -1,0 +1,327 @@
+
+wunvzhanli.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手1
+  rotate: false
+  xy: 3909, 855
+  size: 168, 375
+  orig: 168, 375
+  offset: 0, 0
+  index: -1
+右眼白
+  rotate: false
+  xy: 3909, 390
+  size: 123, 176
+  orig: 123, 176
+  offset: 0, 0
+  index: -1
+嘴1
+  rotate: false
+  xy: 462, 59
+  size: 73, 27
+  orig: 73, 27
+  offset: 0, 0
+  index: -1
+嘴2
+  rotate: true
+  xy: 4025, 1397
+  size: 86, 53
+  orig: 86, 53
+  offset: 0, 0
+  index: -1
+嘴3
+  rotate: true
+  xy: 4052, 4045
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+嘴4
+  rotate: false
+  xy: 2, 4
+  size: 81, 32
+  orig: 81, 32
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 3678, 2075
+  size: 369, 422
+  orig: 369, 422
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: false
+  xy: 3462, 1376
+  size: 214, 1121
+  orig: 214, 1121
+  offset: 0, 0
+  index: -1
+头发4
+  rotate: true
+  xy: 3562, 138
+  size: 226, 478
+  orig: 226, 478
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 2, 294
+  size: 268, 775
+  orig: 268, 775
+  offset: 0, 0
+  index: -1
+左手1
+  rotate: false
+  xy: 2, 38
+  size: 458, 254
+  orig: 458, 254
+  offset: 0, 0
+  index: -1
+左眼白
+  rotate: true
+  xy: 4025, 1485
+  size: 96, 63
+  orig: 96, 63
+  offset: 0, 0
+  index: -1
+左肩
+  rotate: false
+  xy: 462, 88
+  size: 252, 204
+  orig: 252, 204
+  offset: 0, 0
+  index: -1
+弓
+  rotate: false
+  xy: 2, 564
+  size: 796, 3529
+  orig: 796, 3529
+  offset: 0, 0
+  index: -1
+泪花
+  rotate: false
+  xy: 4049, 2306
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+留海1
+  rotate: true
+  xy: 3678, 1665
+  size: 408, 393
+  orig: 408, 393
+  offset: 0, 0
+  index: -1
+眉毛
+  rotate: true
+  xy: 768, 198
+  size: 94, 30
+  orig: 94, 30
+  offset: 0, 0
+  index: -1
+眼睑右
+  rotate: false
+  xy: 3934, 14
+  size: 139, 122
+  orig: 139, 122
+  offset: 0, 0
+  index: -1
+眼睑左
+  rotate: true
+  xy: 3562, 1248
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+瞳孔右1
+  rotate: false
+  xy: 4025, 1583
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+瞳孔右2
+  rotate: false
+  xy: 4034, 437
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+瞳孔左1
+  rotate: false
+  xy: 4034, 506
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+瞳孔左2
+  rotate: false
+  xy: 4025, 1339
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+破衣1/躯干
+  rotate: false
+  xy: 800, 1333
+  size: 1329, 2760
+  orig: 1329, 2760
+  offset: 0, 0
+  index: -1
+破衣1/面具
+  rotate: false
+  xy: 3678, 1232
+  size: 345, 431
+  orig: 345, 431
+  offset: 0, 0
+  index: -1
+破衣2/右手
+  rotate: false
+  xy: 3462, 2499
+  size: 588, 1594
+  orig: 588, 1594
+  offset: 0, 0
+  index: -1
+破衣2/躯干
+  rotate: false
+  xy: 2131, 1333
+  size: 1329, 2760
+  orig: 1329, 2760
+  offset: 0, 0
+  index: -1
+破衣2/面具
+  rotate: false
+  xy: 3562, 799
+  size: 345, 431
+  orig: 345, 431
+  offset: 0, 0
+  index: -1
+红晕
+  rotate: true
+  xy: 3909, 568
+  size: 285, 125
+  orig: 285, 125
+  offset: 0, 0
+  index: -1
+绳子
+  rotate: false
+  xy: 3562, 34
+  size: 370, 102
+  orig: 370, 102
+  offset: 0, 0
+  index: -1
+耳朵
+  rotate: false
+  xy: 716, 202
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: true
+  xy: 800, 2
+  size: 1329, 2760
+  orig: 1329, 2760
+  offset: 0, 0
+  index: -1
+面具
+  rotate: false
+  xy: 3562, 366
+  size: 345, 431
+  orig: 345, 431
+  offset: 0, 0
+  index: -1
+面具绳子
+  rotate: true
+  xy: 4049, 2344
+  size: 153, 45
+  orig: 153, 45
+  offset: 0, 0
+  index: -1
+
+wunvzhanli2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手
+  rotate: false
+  xy: 885, 424
+  size: 588, 1594
+  orig: 588, 1594
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: false
+  xy: 2716, 1566
+  size: 223, 452
+  orig: 223, 452
+  offset: 0, 0
+  index: -1
+头发3
+  rotate: true
+  xy: 885, 208
+  size: 214, 491
+  orig: 214, 491
+  offset: 0, 0
+  index: -1
+头发6
+  rotate: false
+  xy: 2, 140
+  size: 881, 1878
+  orig: 881, 1878
+  offset: 0, 0
+  index: -1
+流汗
+  rotate: false
+  xy: 2941, 1861
+  size: 159, 157
+  orig: 159, 157
+  offset: 0, 0
+  index: -1
+破衣1/右手
+  rotate: false
+  xy: 1475, 434
+  size: 588, 1584
+  orig: 588, 1584
+  offset: 0, 0
+  index: -1
+箭袋
+  rotate: false
+  xy: 2065, 639
+  size: 649, 1379
+  orig: 649, 1379
+  offset: 0, 0
+  index: -1
+红晕2
+  rotate: false
+  xy: 2, 2
+  size: 274, 136
+  orig: 274, 136
+  offset: 0, 0
+  index: -1
+绳子右
+  rotate: false
+  xy: 2716, 1292
+  size: 96, 272
+  orig: 96, 272
+  offset: 0, 0
+  index: -1
+绳子左
+  rotate: true
+  xy: 2065, 536
+  size: 101, 293
+  orig: 101, 293
+  offset: 0, 0
+  index: -1
+马赛克1
+  rotate: false
+  xy: 278, 31
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1

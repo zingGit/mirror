@@ -1,0 +1,573 @@
+
+jiangshizhanli.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右后裙
+  rotate: false
+  xy: 0, 216
+  size: 552, 868
+  orig: 552, 868
+  offset: 0, 0
+  index: -1
+右手臂
+  rotate: false
+  xy: 2202, 2206
+  size: 439, 531
+  orig: 439, 531
+  offset: 0, 0
+  index: -1
+右腿
+  rotate: false
+  xy: 1774, 2893
+  size: 445, 1203
+  orig: 445, 1203
+  offset: 0, 0
+  index: -1
+右袖口
+  rotate: true
+  xy: 1393, 1395
+  size: 455, 660
+  orig: 455, 660
+  offset: 0, 0
+  index: -1
+嘴1
+  rotate: true
+  xy: 2450, 1350
+  size: 91, 50
+  orig: 91, 50
+  offset: 0, 0
+  index: -1
+嘴2
+  rotate: false
+  xy: 552, 224
+  size: 204, 90
+  orig: 204, 90
+  offset: 0, 0
+  index: -1
+嘴3
+  rotate: false
+  xy: 2023, 959
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 3172, 2316
+  size: 330, 418
+  orig: 330, 418
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: false
+  xy: 2023, 994
+  size: 292, 284
+  orig: 292, 284
+  offset: 0, 0
+  index: -1
+头发3
+  rotate: false
+  xy: 552, 314
+  size: 339, 770
+  orig: 339, 770
+  offset: 0, 0
+  index: -1
+头愤怒
+  rotate: true
+  xy: 3502, 2281
+  size: 330, 418
+  orig: 330, 418
+  offset: 0, 0
+  index: -1
+左前臂
+  rotate: true
+  xy: 2219, 2737
+  size: 491, 560
+  orig: 491, 560
+  offset: 0, 0
+  index: -1
+左后裙
+  rotate: false
+  xy: 2771, 3271
+  size: 582, 825
+  orig: 582, 825
+  offset: 0, 0
+  index: -1
+左腿
+  rotate: false
+  xy: 887, 1440
+  size: 506, 1150
+  orig: 506, 1150
+  offset: 0, 0
+  index: -1
+左臂
+  rotate: false
+  xy: 1857, 294
+  size: 272, 626
+  orig: 272, 626
+  offset: 0, 0
+  index: -1
+左袖口
+  rotate: false
+  xy: 1393, 1850
+  size: 537, 740
+  orig: 537, 740
+  offset: 0, 0
+  index: -1
+帽子
+  rotate: false
+  xy: 2202, 1930
+  size: 607, 276
+  orig: 607, 276
+  offset: 0, 0
+  index: -1
+帽子2
+  rotate: false
+  xy: 535, 0
+  size: 370, 183
+  orig: 370, 183
+  offset: 0, 0
+  index: -1
+帽子3
+  rotate: false
+  xy: 1302, 106
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+留海
+  rotate: false
+  xy: 2809, 1913
+  size: 352, 382
+  orig: 352, 382
+  offset: 0, 0
+  index: -1
+留海2
+  rotate: true
+  xy: 0, 3
+  size: 213, 535
+  orig: 213, 535
+  offset: 0, 0
+  index: -1
+眉毛
+  rotate: true
+  xy: 2023, 1281
+  size: 114, 28
+  orig: 114, 28
+  offset: 0, 0
+  index: -1
+眼球
+  rotate: false
+  xy: 1930, 1908
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+眼白
+  rotate: false
+  xy: 2641, 2229
+  size: 108, 66
+  orig: 108, 66
+  offset: 0, 0
+  index: -1
+眼睑
+  rotate: false
+  xy: 1774, 2609
+  size: 150, 99
+  orig: 150, 99
+  offset: 0, 0
+  index: -1
+破衣1/右后裙
+  rotate: false
+  xy: 2219, 3228
+  size: 552, 868
+  orig: 552, 868
+  offset: 0, 0
+  index: -1
+破衣2/右后裙
+  rotate: false
+  xy: 2219, 3228
+  size: 552, 868
+  orig: 552, 868
+  offset: 0, 0
+  index: -1
+破衣1/右手臂
+  rotate: true
+  xy: 2641, 2295
+  size: 439, 531
+  orig: 439, 531
+  offset: 0, 0
+  index: -1
+破衣2/右手臂
+  rotate: true
+  xy: 2641, 2295
+  size: 439, 531
+  orig: 439, 531
+  offset: 0, 0
+  index: -1
+破衣1/右袖口
+  rotate: false
+  xy: 3519, 2611
+  size: 455, 660
+  orig: 455, 660
+  offset: 0, 0
+  index: -1
+破衣2/右袖口
+  rotate: false
+  xy: 3519, 2611
+  size: 455, 660
+  orig: 455, 660
+  offset: 0, 0
+  index: -1
+破衣1/左前臂
+  rotate: false
+  xy: 891, 183
+  size: 491, 600
+  orig: 491, 600
+  offset: 0, 0
+  index: -1
+破衣2/左前臂
+  rotate: false
+  xy: 891, 183
+  size: 491, 600
+  orig: 491, 600
+  offset: 0, 0
+  index: -1
+破衣1/左后裙
+  rotate: false
+  xy: 3353, 3271
+  size: 582, 825
+  orig: 582, 825
+  offset: 0, 0
+  index: -1
+破衣2/左后裙
+  rotate: false
+  xy: 3353, 3271
+  size: 582, 825
+  orig: 582, 825
+  offset: 0, 0
+  index: -1
+破衣1/左臂
+  rotate: false
+  xy: 1930, 1985
+  size: 272, 626
+  orig: 272, 626
+  offset: 0, 0
+  index: -1
+破衣2/左臂
+  rotate: false
+  xy: 1930, 1985
+  size: 272, 626
+  orig: 272, 626
+  offset: 0, 0
+  index: -1
+破衣1/左袖口
+  rotate: true
+  xy: 2779, 2734
+  size: 537, 740
+  orig: 537, 740
+  offset: 0, 0
+  index: -1
+破衣2/左袖口
+  rotate: true
+  xy: 2779, 2734
+  size: 537, 740
+  orig: 537, 740
+  offset: 0, 0
+  index: -1
+破衣1/帽子
+  rotate: false
+  xy: 2053, 1654
+  size: 607, 276
+  orig: 607, 276
+  offset: 0, 0
+  index: -1
+破衣2/帽子
+  rotate: false
+  xy: 2053, 1654
+  size: 607, 276
+  orig: 607, 276
+  offset: 0, 0
+  index: -1
+破衣1/符1
+  rotate: false
+  xy: 2862, 1438
+  size: 196, 198
+  orig: 196, 198
+  offset: 0, 0
+  index: -1
+破衣2/符1
+  rotate: false
+  xy: 2862, 1438
+  size: 196, 198
+  orig: 196, 198
+  offset: 0, 0
+  index: -1
+破衣1/符2
+  rotate: true
+  xy: 2330, 241
+  size: 145, 205
+  orig: 145, 205
+  offset: 0, 0
+  index: -1
+破衣2/符2
+  rotate: true
+  xy: 2330, 241
+  size: 145, 205
+  orig: 145, 205
+  offset: 0, 0
+  index: -1
+破衣1/符3
+  rotate: false
+  xy: 2500, 1363
+  size: 181, 291
+  orig: 181, 291
+  offset: 0, 0
+  index: -1
+破衣2/符3
+  rotate: false
+  xy: 2500, 1363
+  size: 181, 291
+  orig: 181, 291
+  offset: 0, 0
+  index: -1
+破衣1/符4
+  rotate: false
+  xy: 2129, 652
+  size: 201, 342
+  orig: 201, 342
+  offset: 0, 0
+  index: -1
+破衣2/符4
+  rotate: false
+  xy: 2129, 652
+  size: 201, 342
+  orig: 201, 342
+  offset: 0, 0
+  index: -1
+破衣1/符5
+  rotate: false
+  xy: 2330, 690
+  size: 213, 304
+  orig: 213, 304
+  offset: 0, 0
+  index: -1
+破衣2/符5
+  rotate: false
+  xy: 2330, 690
+  size: 213, 304
+  orig: 213, 304
+  offset: 0, 0
+  index: -1
+破衣1/符6
+  rotate: true
+  xy: 905, 20
+  size: 163, 397
+  orig: 163, 397
+  offset: 0, 0
+  index: -1
+破衣2/符6
+  rotate: true
+  xy: 905, 20
+  size: 163, 397
+  orig: 163, 397
+  offset: 0, 0
+  index: -1
+破衣1/符7
+  rotate: false
+  xy: 2315, 994
+  size: 238, 284
+  orig: 238, 284
+  offset: 0, 0
+  index: -1
+破衣2/符7
+  rotate: false
+  xy: 2315, 994
+  size: 238, 284
+  orig: 238, 284
+  offset: 0, 0
+  index: -1
+破衣1/符8
+  rotate: false
+  xy: 3058, 1449
+  size: 158, 187
+  orig: 158, 187
+  offset: 0, 0
+  index: -1
+破衣2/符8
+  rotate: false
+  xy: 3058, 1449
+  size: 158, 187
+  orig: 158, 187
+  offset: 0, 0
+  index: -1
+破衣1/符9
+  rotate: true
+  xy: 2053, 1441
+  size: 213, 447
+  orig: 213, 447
+  offset: 0, 0
+  index: -1
+破衣2/符9
+  rotate: true
+  xy: 2053, 1441
+  size: 213, 447
+  orig: 213, 447
+  offset: 0, 0
+  index: -1
+破衣1/胸部
+  rotate: true
+  xy: 891, 783
+  size: 657, 475
+  orig: 657, 475
+  offset: 0, 0
+  index: -1
+破衣1/躯干
+  rotate: false
+  xy: 0, 2590
+  size: 887, 1506
+  orig: 887, 1506
+  offset: 0, 0
+  index: -1
+破衣2/胸部
+  rotate: false
+  xy: 1366, 920
+  size: 657, 475
+  orig: 657, 475
+  offset: 0, 0
+  index: -1
+破衣2/躯干
+  rotate: false
+  xy: 0, 1084
+  size: 887, 1506
+  orig: 887, 1506
+  offset: 0, 0
+  index: -1
+符1
+  rotate: false
+  xy: 2862, 1240
+  size: 196, 198
+  orig: 196, 198
+  offset: 0, 0
+  index: -1
+符2
+  rotate: false
+  xy: 3107, 1708
+  size: 145, 205
+  orig: 145, 205
+  offset: 0, 0
+  index: -1
+符3
+  rotate: false
+  xy: 2681, 1384
+  size: 181, 291
+  orig: 181, 291
+  offset: 0, 0
+  index: -1
+符4
+  rotate: false
+  xy: 2129, 310
+  size: 201, 342
+  orig: 201, 342
+  offset: 0, 0
+  index: -1
+符5
+  rotate: false
+  xy: 2330, 386
+  size: 213, 304
+  orig: 213, 304
+  offset: 0, 0
+  index: -1
+符6
+  rotate: true
+  xy: 2053, 1278
+  size: 163, 397
+  orig: 163, 397
+  offset: 0, 0
+  index: -1
+符7
+  rotate: true
+  xy: 2660, 1675
+  size: 238, 284
+  orig: 238, 284
+  offset: 0, 0
+  index: -1
+符8
+  rotate: false
+  xy: 3058, 1262
+  size: 158, 187
+  orig: 158, 187
+  offset: 0, 0
+  index: -1
+符9
+  rotate: true
+  xy: 1382, 50
+  size: 213, 447
+  orig: 213, 447
+  offset: 0, 0
+  index: -1
+红晕
+  rotate: true
+  xy: 3935, 3292
+  size: 329, 157
+  orig: 329, 157
+  offset: 0, 0
+  index: -1
+红晕2
+  rotate: true
+  xy: 3920, 2318
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+羽毛
+  rotate: true
+  xy: 3935, 3621
+  size: 475, 143
+  orig: 475, 143
+  offset: 0, 0
+  index: -1
+耳朵
+  rotate: false
+  xy: 2151, 2778
+  size: 56, 115
+  orig: 56, 115
+  offset: 0, 0
+  index: -1
+胸部
+  rotate: true
+  xy: 1382, 263
+  size: 657, 475
+  orig: 657, 475
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: false
+  xy: 887, 2590
+  size: 887, 1506
+  orig: 887, 1506
+  offset: 0, 0
+  index: -1
+鬼火1
+  rotate: false
+  xy: 3974, 3124
+  size: 111, 168
+  orig: 111, 168
+  offset: 0, 0
+  index: -1
+鬼火2
+  rotate: true
+  xy: 1774, 2708
+  size: 185, 377
+  orig: 185, 377
+  offset: 0, 0
+  index: -1
+鬼火3
+  rotate: false
+  xy: 2944, 1636
+  size: 163, 277
+  orig: 163, 277
+  offset: 0, 0
+  index: -1

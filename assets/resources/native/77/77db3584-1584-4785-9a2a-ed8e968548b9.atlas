@@ -1,0 +1,481 @@
+
+ciketiaojiao.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CG/刺客/拆分/上嘴唇
+  rotate: false
+  xy: 4018, 2673
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/下嘴唇
+  rotate: true
+  xy: 4018, 2492
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/内裤_1
+  rotate: false
+  xy: 3514, 0
+  size: 427, 197
+  orig: 427, 197
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/右乳头_0
+  rotate: false
+  xy: 4018, 2432
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/右乳钉_1
+  rotate: false
+  xy: 4052, 3947
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/右乳钉_2
+  rotate: true
+  xy: 4052, 3921
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/右手
+  rotate: true
+  xy: 2385, 2
+  size: 1207, 1129
+  orig: 1207, 1129
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/右腿
+  rotate: true
+  xy: 2623, 1209
+  size: 1281, 1059
+  orig: 1281, 1059
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/唾液
+  rotate: false
+  xy: 3956, 728
+  size: 107, 142
+  orig: 107, 142
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/唾液1
+  rotate: false
+  xy: 4018, 2374
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/左乳头
+  rotate: false
+  xy: 3956, 870
+  size: 131, 128
+  orig: 131, 128
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/左乳头_01
+  rotate: true
+  xy: 4052, 3995
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/左乳钉_1
+  rotate: false
+  xy: 4052, 4040
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/左乳钉_2
+  rotate: false
+  xy: 4052, 3892
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/左手
+  rotate: true
+  xy: 2623, 2490
+  size: 1599, 1094
+  orig: 1599, 1094
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/左胸
+  rotate: true
+  xy: 3514, 197
+  size: 721, 442
+  orig: 721, 442
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/左胸_胸罩
+  rotate: false
+  xy: 1153, 35
+  size: 721, 442
+  orig: 721, 442
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/左脚
+  rotate: true
+  xy: 2385, 1697
+  size: 526, 219
+  orig: 526, 219
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/枕头
+  rotate: true
+  xy: 0, 477
+  size: 1746, 2385
+  orig: 1746, 2385
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/球
+  rotate: false
+  xy: 3956, 532
+  size: 98, 91
+  orig: 98, 91
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/眉毛
+  rotate: false
+  xy: 3941, 16
+  size: 104, 181
+  orig: 104, 181
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/眼泪
+  rotate: false
+  xy: 4018, 2555
+  size: 48, 118
+  orig: 48, 118
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/眼泪1
+  rotate: true
+  xy: 4018, 2323
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/眼睑
+  rotate: true
+  xy: 2385, 1211
+  size: 85, 201
+  orig: 85, 201
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/红晕
+  rotate: false
+  xy: 1874, 13
+  size: 489, 464
+  orig: 489, 464
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/道具背景/汗
+  rotate: false
+  xy: 0, 2223
+  size: 2623, 1866
+  orig: 2623, 1866
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/马赛克1
+  rotate: true
+  xy: 3956, 623
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+CG/动画原件/手2
+  rotate: false
+  xy: 3717, 2777
+  size: 373, 613
+  orig: 373, 613
+  offset: 0, 0
+  index: -1
+CG/动画原件/手3
+  rotate: false
+  xy: 3717, 3390
+  size: 335, 699
+  orig: 335, 699
+  offset: 0, 0
+  index: -1
+CG/动画原件/手3阴影
+  rotate: false
+  xy: 3717, 2151
+  size: 301, 626
+  orig: 301, 626
+  offset: 0, 0
+  index: -1
+CG/动画原件/按摩棒
+  rotate: false
+  xy: 3682, 998
+  size: 408, 1153
+  orig: 408, 1153
+  offset: 0, 0
+  index: -1
+CG/动画原件/按摩棒1
+  rotate: true
+  xy: 0, 69
+  size: 408, 1153
+  orig: 408, 1153
+  offset: 0, 0
+  index: -1
+CG/动画原件/水3
+  rotate: true
+  xy: 3514, 918
+  size: 291, 160
+  orig: 291, 160
+  offset: 0, 0
+  index: -1
+CG/动画原件/水_3
+  rotate: true
+  xy: 2385, 1296
+  size: 401, 237
+  orig: 401, 237
+  offset: 0, 0
+  index: -1
+
+ciketiaojiao2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CG/刺客/拆分/内裤_2
+  rotate: true
+  xy: 3532, 1247
+  size: 281, 179
+  orig: 281, 179
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/内裤_4
+  rotate: false
+  xy: 3155, 1528
+  size: 571, 523
+  orig: 571, 523
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/右乳头
+  rotate: true
+  xy: 2697, 1036
+  size: 171, 200
+  orig: 171, 200
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/右耳
+  rotate: true
+  xy: 3726, 1476
+  size: 193, 352
+  orig: 193, 352
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/右胸
+  rotate: true
+  xy: 0, 0
+  size: 596, 642
+  orig: 596, 642
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/右胸_胸罩
+  rotate: true
+  xy: 1927, 1455
+  size: 596, 642
+  orig: 596, 642
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/右脚
+  rotate: false
+  xy: 0, 1596
+  size: 1927, 521
+  orig: 1927, 521
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/右腿皮带
+  rotate: false
+  xy: 1744, 917
+  size: 527, 538
+  orig: 527, 538
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/头
+  rotate: false
+  xy: 1000, 484
+  size: 744, 1112
+  orig: 744, 1112
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/左耳
+  rotate: false
+  xy: 3726, 1669
+  size: 311, 382
+  orig: 311, 382
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/左腿皮带
+  rotate: false
+  xy: 1417, 99
+  size: 327, 385
+  orig: 327, 385
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/汗_右大腿
+  rotate: false
+  xy: 2569, 1459
+  size: 586, 592
+  orig: 586, 592
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/耳朵唾液
+  rotate: false
+  xy: 2110, 71
+  size: 260, 357
+  orig: 260, 357
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/躯干
+  rotate: false
+  xy: 0, 2117
+  size: 2043, 1934
+  orig: 2043, 1934
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/颈护甲
+  rotate: false
+  xy: 2271, 1056
+  size: 250, 399
+  orig: 250, 399
+  offset: 0, 0
+  index: -1
+CG/刺客/拆分/马赛克
+  rotate: true
+  xy: 1744, 121
+  size: 307, 366
+  orig: 307, 366
+  offset: 0, 0
+  index: -1
+CG/动画原件/手1
+  rotate: true
+  xy: 925, 26
+  size: 458, 492
+  orig: 458, 492
+  offset: 0, 0
+  index: -1
+CG/动画原件/手2阴影
+  rotate: true
+  xy: 1744, 428
+  size: 489, 493
+  orig: 489, 493
+  offset: 0, 0
+  index: -1
+CG/动画原件/手4
+  rotate: false
+  xy: 642, 18
+  size: 283, 578
+  orig: 283, 578
+  offset: 0, 0
+  index: -1
+CG/动画原件/手4水
+  rotate: true
+  xy: 3155, 1292
+  size: 236, 377
+  orig: 236, 377
+  offset: 0, 0
+  index: -1
+CG/动画原件/按摩棒_02
+  rotate: true
+  xy: 2271, 828
+  size: 228, 252
+  orig: 228, 252
+  offset: 0, 0
+  index: -1
+CG/动画原件/按摩棒_03
+  rotate: false
+  xy: 2697, 1207
+  size: 228, 252
+  orig: 228, 252
+  offset: 0, 0
+  index: -1
+CG/动画原件/水2_1
+  rotate: false
+  xy: 2043, 3051
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+CG/动画原件/水2_2
+  rotate: false
+  xy: 0, 596
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+CG/动画原件/水2_3
+  rotate: false
+  xy: 3043, 3051
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+CG/动画原件/水2_4
+  rotate: false
+  xy: 2043, 2051
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+CG/动画原件/水2_5
+  rotate: false
+  xy: 3043, 2051
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+CG/动画原件/水_1
+  rotate: true
+  xy: 2521, 1155
+  size: 300, 176
+  orig: 300, 176
+  offset: 0, 0
+  index: -1
+CG/动画原件/水_2
+  rotate: true
+  xy: 2237, 499
+  size: 329, 213
+  orig: 329, 213
+  offset: 0, 0
+  index: -1
+CG/动画原件/水_4
+  rotate: false
+  xy: 3711, 1239
+  size: 366, 237
+  orig: 366, 237
+  offset: 0, 0
+  index: -1
+CG/动画原件/水_5
+  rotate: true
+  xy: 2450, 519
+  size: 309, 226
+  orig: 309, 226
+  offset: 0, 0
+  index: -1
+CG/动画原件/舌头1
+  rotate: false
+  xy: 2925, 1256
+  size: 220, 203
+  orig: 220, 203
+  offset: 0, 0
+  index: -1
+CG/动画原件/舌头2
+  rotate: true
+  xy: 2523, 920
+  size: 235, 162
+  orig: 235, 162
+  offset: 0, 0
+  index: -1

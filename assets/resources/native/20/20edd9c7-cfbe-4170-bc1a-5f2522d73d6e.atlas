@@ -1,0 +1,607 @@
+
+nvshenguangtiaojiao.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+乳头
+  rotate: true
+  xy: 4039, 2965
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+体液5
+  rotate: true
+  xy: 2456, 1541
+  size: 97, 749
+  orig: 97, 749
+  offset: 0, 0
+  index: -1
+体液6
+  rotate: true
+  xy: 3205, 1390
+  size: 216, 435
+  orig: 216, 435
+  offset: 0, 0
+  index: -1
+刘海1
+  rotate: false
+  xy: 3953, 286
+  size: 142, 329
+  orig: 142, 329
+  offset: 0, 0
+  index: -1
+刘海3
+  rotate: false
+  xy: 4008, 1384
+  size: 74, 278
+  orig: 74, 278
+  offset: 0, 0
+  index: -1
+刘海5
+  rotate: false
+  xy: 4039, 2691
+  size: 46, 274
+  orig: 46, 274
+  offset: 0, 0
+  index: -1
+刺3
+  rotate: false
+  xy: 4008, 1754
+  size: 80, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+刺4
+  rotate: true
+  xy: 2723, 1389
+  size: 152, 149
+  orig: 152, 149
+  offset: 0, 0
+  index: -1
+刺7
+  rotate: false
+  xy: 4039, 2631
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+刺8
+  rotate: true
+  xy: 3953, 0
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+右 眼睑
+  rotate: false
+  xy: 3002, 1395
+  size: 134, 146
+  orig: 134, 146
+  offset: 0, 0
+  index: -1
+右眉
+  rotate: false
+  xy: 4008, 1662
+  size: 80, 92
+  orig: 80, 92
+  offset: 0, 0
+  index: -1
+右眼白
+  rotate: true
+  xy: 4008, 1851
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+右瞳孔
+  rotate: false
+  xy: 4008, 2039
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+嘴2
+  rotate: false
+  xy: 2872, 1389
+  size: 130, 152
+  orig: 130, 152
+  offset: 0, 0
+  index: -1
+大腿
+  rotate: false
+  xy: 0, 1638
+  size: 1627, 2456
+  orig: 1627, 2456
+  offset: 0, 0
+  index: -1
+大腿1
+  rotate: true
+  xy: 0, 11
+  size: 1627, 2456
+  orig: 1627, 2456
+  offset: 0, 0
+  index: -1
+大腿2
+  rotate: false
+  xy: 1627, 1638
+  size: 1627, 2456
+  orig: 1627, 2456
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 3618, 825
+  size: 477, 559
+  orig: 477, 559
+  offset: 0, 0
+  index: -1
+头发6
+  rotate: true
+  xy: 3841, 1413
+  size: 193, 164
+  orig: 193, 164
+  offset: 0, 0
+  index: -1
+头发7
+  rotate: true
+  xy: 2456, 50
+  size: 1334, 1162
+  orig: 1334, 1162
+  offset: 0, 0
+  index: -1
+头巾
+  rotate: false
+  xy: 3618, 615
+  size: 477, 210
+  orig: 477, 210
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 3254, 3172
+  size: 922, 829
+  orig: 922, 829
+  offset: 0, 0
+  index: -1
+左眉
+  rotate: true
+  xy: 4039, 3024
+  size: 148, 53
+  orig: 148, 53
+  offset: 0, 0
+  index: -1
+左瞳孔
+  rotate: true
+  xy: 4008, 2120
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+披肩
+  rotate: true
+  xy: 3254, 2220
+  size: 952, 785
+  orig: 952, 785
+  offset: 0, 0
+  index: -1
+皮鞭红晕1
+  rotate: true
+  xy: 2456, 1387
+  size: 154, 267
+  orig: 154, 267
+  offset: 0, 0
+  index: -1
+胸部凹陷1
+  rotate: false
+  xy: 3953, 74
+  size: 137, 212
+  orig: 137, 212
+  offset: 0, 0
+  index: -1
+腰带
+  rotate: true
+  xy: 3254, 1606
+  size: 614, 754
+  orig: 614, 754
+  offset: 0, 0
+  index: -1
+舌头1
+  rotate: true
+  xy: 4008, 1946
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+色块
+  rotate: false
+  xy: 3136, 1480
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+色块1
+  rotate: false
+  xy: 3136, 1419
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+阴部
+  rotate: true
+  xy: 3640, 1391
+  size: 215, 201
+  orig: 215, 201
+  offset: 0, 0
+  index: -1
+项链
+  rotate: false
+  xy: 3618, 23
+  size: 335, 592
+  orig: 335, 592
+  offset: 0, 0
+  index: -1
+
+nvshenguangtiaojiao2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+体液1
+  rotate: false
+  xy: 1852, 1178
+  size: 232, 523
+  orig: 232, 523
+  offset: 0, 0
+  index: -1
+体液10
+  rotate: true
+  xy: 1274, 434
+  size: 70, 566
+  orig: 70, 566
+  offset: 0, 0
+  index: -1
+体液11
+  rotate: false
+  xy: 3669, 2205
+  size: 209, 302
+  orig: 209, 302
+  offset: 0, 0
+  index: -1
+体液15
+  rotate: false
+  xy: 1202, 149
+  size: 274, 285
+  orig: 274, 285
+  offset: 0, 0
+  index: -1
+体液2
+  rotate: false
+  xy: 3898, 3493
+  size: 185, 590
+  orig: 185, 590
+  offset: 0, 0
+  index: -1
+体液4
+  rotate: true
+  xy: 2019, 426
+  size: 338, 401
+  orig: 338, 401
+  offset: 0, 0
+  index: -1
+体液7
+  rotate: true
+  xy: 2519, 1504
+  size: 300, 498
+  orig: 300, 498
+  offset: 0, 0
+  index: -1
+刘海2
+  rotate: false
+  xy: 3818, 1650
+  size: 104, 296
+  orig: 104, 296
+  offset: 0, 0
+  index: -1
+刘海4
+  rotate: false
+  xy: 3898, 3212
+  size: 189, 281
+  orig: 189, 281
+  offset: 0, 0
+  index: -1
+刘海6
+  rotate: true
+  xy: 1202, 30
+  size: 119, 276
+  orig: 119, 276
+  offset: 0, 0
+  index: -1
+刘海7
+  rotate: false
+  xy: 3691, 1643
+  size: 127, 303
+  orig: 127, 303
+  offset: 0, 0
+  index: -1
+刘海8
+  rotate: false
+  xy: 1765, 190
+  size: 62, 244
+  orig: 62, 244
+  offset: 0, 0
+  index: -1
+刺0
+  rotate: false
+  xy: 2534, 894
+  size: 144, 169
+  orig: 144, 169
+  offset: 0, 0
+  index: -1
+刺1
+  rotate: false
+  xy: 1682, 0
+  size: 178, 189
+  orig: 178, 189
+  offset: 0, 0
+  index: -1
+刺2
+  rotate: true
+  xy: 2716, 1116
+  size: 130, 185
+  orig: 130, 185
+  offset: 0, 0
+  index: -1
+刺5
+  rotate: false
+  xy: 1840, 380
+  size: 170, 124
+  orig: 170, 124
+  offset: 0, 0
+  index: -1
+刺6
+  rotate: true
+  xy: 2365, 997
+  size: 199, 168
+  orig: 199, 168
+  offset: 0, 0
+  index: -1
+右胸
+  rotate: true
+  xy: 3295, 1901
+  size: 540, 374
+  orig: 540, 374
+  offset: 0, 0
+  index: -1
+右腿
+  rotate: false
+  xy: 0, 2338
+  size: 2076, 1745
+  orig: 2076, 1745
+  offset: 0, 0
+  index: -1
+唾液
+  rotate: true
+  xy: 3295, 2441
+  size: 557, 199
+  orig: 557, 199
+  offset: 0, 0
+  index: -1
+唾液1
+  rotate: false
+  xy: 2533, 1063
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+唾液2
+  rotate: false
+  xy: 1476, 189
+  size: 289, 245
+  orig: 289, 245
+  offset: 0, 0
+  index: -1
+唾液3
+  rotate: false
+  xy: 3388, 1244
+  size: 278, 291
+  orig: 278, 291
+  offset: 0, 0
+  index: -1
+嘴
+  rotate: true
+  xy: 2901, 1140
+  size: 106, 111
+  orig: 106, 111
+  offset: 0, 0
+  index: -1
+嘴1
+  rotate: true
+  xy: 2084, 1098
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: true
+  xy: 2084, 1196
+  size: 123, 432
+  orig: 123, 432
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: false
+  xy: 1852, 1701
+  size: 168, 637
+  orig: 168, 637
+  offset: 0, 0
+  index: -1
+头发3
+  rotate: true
+  xy: 3494, 2507
+  size: 165, 371
+  orig: 165, 371
+  offset: 0, 0
+  index: -1
+头发4
+  rotate: false
+  xy: 1111, 49
+  size: 91, 416
+  orig: 91, 416
+  offset: 0, 0
+  index: -1
+头发5
+  rotate: true
+  xy: 0, 11
+  size: 167, 483
+  orig: 167, 483
+  offset: 0, 0
+  index: -1
+头巾1
+  rotate: false
+  xy: 3474, 3202
+  size: 424, 881
+  orig: 424, 881
+  offset: 0, 0
+  index: -1
+头巾3
+  rotate: true
+  xy: 2519, 1246
+  size: 258, 493
+  orig: 258, 493
+  offset: 0, 0
+  index: -1
+左眼白
+  rotate: false
+  xy: 2193, 1100
+  size: 132, 96
+  orig: 132, 96
+  offset: 0, 0
+  index: -1
+左眼睑
+  rotate: true
+  xy: 1478, 6
+  size: 183, 204
+  orig: 183, 204
+  offset: 0, 0
+  index: -1
+左胸
+  rotate: true
+  xy: 556, 15
+  size: 450, 555
+  orig: 450, 555
+  offset: 0, 0
+  index: -1
+左腿
+  rotate: false
+  xy: 2076, 2998
+  size: 1398, 1085
+  orig: 1398, 1085
+  offset: 0, 0
+  index: -1
+皮鞭红晕2
+  rotate: false
+  xy: 2084, 1319
+  size: 435, 485
+  orig: 435, 485
+  offset: 0, 0
+  index: -1
+肚子鼓
+  rotate: false
+  xy: 3017, 1502
+  size: 367, 302
+  orig: 367, 302
+  offset: 0, 0
+  index: -1
+胸部凹陷
+  rotate: false
+  xy: 2365, 813
+  size: 169, 184
+  orig: 169, 184
+  offset: 0, 0
+  index: -1
+胸部凹陷2
+  rotate: false
+  xy: 1827, 217
+  size: 137, 163
+  orig: 137, 163
+  offset: 0, 0
+  index: -1
+舌头
+  rotate: true
+  xy: 3669, 1946
+  size: 259, 229
+  orig: 259, 229
+  offset: 0, 0
+  index: -1
+衣服右肩
+  rotate: false
+  xy: 3012, 1210
+  size: 376, 292
+  orig: 376, 292
+  offset: 0, 0
+  index: -1
+衣服左肩
+  rotate: false
+  xy: 3494, 2672
+  size: 396, 530
+  orig: 396, 530
+  offset: 0, 0
+  index: -1
+裙子
+  rotate: false
+  xy: 2076, 1804
+  size: 1219, 1194
+  orig: 1219, 1194
+  offset: 0, 0
+  index: -1
+触手头
+  rotate: true
+  xy: 1274, 504
+  size: 260, 745
+  orig: 260, 745
+  offset: 0, 0
+  index: -1
+触手头张开
+  rotate: false
+  xy: 0, 178
+  size: 556, 586
+  orig: 556, 586
+  offset: 0, 0
+  index: -1
+触手身
+  rotate: true
+  xy: 0, 764
+  size: 334, 2365
+  orig: 334, 2365
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: false
+  xy: 0, 1098
+  size: 1852, 1240
+  orig: 1852, 1240
+  offset: 0, 0
+  index: -1
+链子
+  rotate: true
+  xy: 556, 465
+  size: 299, 718
+  orig: 299, 718
+  offset: 0, 0
+  index: -1
+马赛克
+  rotate: false
+  xy: 3384, 1535
+  size: 307, 366
+  orig: 307, 366
+  offset: 0, 0
+  index: -1
+马赛克1
+  rotate: false
+  xy: 3691, 1536
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1

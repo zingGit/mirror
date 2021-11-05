@@ -1,0 +1,740 @@
+
+nvwangtiaojiao.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+体液10
+  rotate: false
+  xy: 2436, 2099
+  size: 70, 566
+  orig: 70, 566
+  offset: 0, 0
+  index: -1
+体液12
+  rotate: false
+  xy: 3174, 445
+  size: 244, 289
+  orig: 244, 289
+  offset: 0, 0
+  index: -1
+体液13
+  rotate: false
+  xy: 2488, 1366
+  size: 243, 211
+  orig: 243, 211
+  offset: 0, 0
+  index: -1
+体液14
+  rotate: true
+  xy: 3418, 651
+  size: 83, 98
+  orig: 83, 98
+  offset: 0, 0
+  index: -1
+体液16
+  rotate: false
+  xy: 1722, 1359
+  size: 766, 738
+  orig: 766, 738
+  offset: 0, 0
+  index: -1
+体液1a (2)
+  rotate: false
+  xy: 1116, 16
+  size: 574, 425
+  orig: 574, 425
+  offset: 0, 0
+  index: -1
+体液2
+  rotate: true
+  xy: 3522, 466
+  size: 795, 574
+  orig: 795, 574
+  offset: 0, 0
+  index: -1
+体液20
+  rotate: false
+  xy: 1722, 442
+  size: 195, 819
+  orig: 195, 819
+  offset: 0, 0
+  index: -1
+体液4
+  rotate: false
+  xy: 3550, 1725
+  size: 523, 926
+  orig: 523, 926
+  offset: 0, 0
+  index: -1
+体液6
+  rotate: false
+  xy: 3876, 0
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+体液8
+  rotate: true
+  xy: 2772, 2146
+  size: 47, 146
+  orig: 47, 146
+  offset: 0, 0
+  index: -1
+僵尸A下巴
+  rotate: true
+  xy: 2506, 2346
+  size: 319, 395
+  orig: 319, 395
+  offset: 0, 0
+  index: -1
+僵尸A下巴1
+  rotate: false
+  xy: 2506, 2101
+  size: 189, 245
+  orig: 189, 245
+  offset: 0, 0
+  index: -1
+僵尸A帽1
+  rotate: true
+  xy: 3552, 3102
+  size: 231, 530
+  orig: 231, 530
+  offset: 0, 0
+  index: -1
+僵尸A手
+  rotate: true
+  xy: 0, 1
+  size: 440, 468
+  orig: 440, 468
+  offset: 0, 0
+  index: -1
+僵尸A手右
+  rotate: false
+  xy: 3552, 3807
+  size: 533, 289
+  orig: 533, 289
+  offset: 0, 0
+  index: -1
+僵尸A瞳孔
+  rotate: true
+  xy: 4077, 3079
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+僵尸B
+  rotate: true
+  xy: 0, 441
+  size: 2210, 1722
+  orig: 2210, 1722
+  offset: 0, 0
+  index: -1
+僵尸B手右
+  rotate: true
+  xy: 2488, 1577
+  size: 522, 419
+  orig: 522, 419
+  offset: 0, 0
+  index: -1
+僵尸B手左
+  rotate: false
+  xy: 3523, 1261
+  size: 572, 464
+  orig: 572, 464
+  offset: 0, 0
+  index: -1
+僵尸B肩
+  rotate: false
+  xy: 2924, 1356
+  size: 599, 730
+  orig: 599, 730
+  offset: 0, 0
+  index: -1
+僵尸C下巴
+  rotate: true
+  xy: 3174, 946
+  size: 272, 340
+  orig: 272, 340
+  offset: 0, 0
+  index: -1
+僵尸C护腕右
+  rotate: false
+  xy: 468, 3
+  size: 648, 438
+  orig: 648, 438
+  offset: 0, 0
+  index: -1
+僵尸C眼光
+  rotate: false
+  xy: 2075, 2557
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+刘海1
+  rotate: false
+  xy: 2731, 1372
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+刘海4
+  rotate: true
+  xy: 2695, 2193
+  size: 153, 199
+  orig: 153, 199
+  offset: 0, 0
+  index: -1
+右阴唇
+  rotate: false
+  xy: 3418, 449
+  size: 61, 202
+  orig: 61, 202
+  offset: 0, 0
+  index: -1
+嘴唇
+  rotate: true
+  xy: 1850, 2550
+  size: 115, 67
+  orig: 115, 67
+  offset: 0, 0
+  index: -1
+头饰1
+  rotate: true
+  xy: 1850, 2097
+  size: 253, 64
+  orig: 253, 64
+  offset: 0, 0
+  index: -1
+头饰3
+  rotate: false
+  xy: 3174, 1218
+  size: 348, 138
+  orig: 348, 138
+  offset: 0, 0
+  index: -1
+孔雀羽毛
+  rotate: true
+  xy: 1690, 19
+  size: 422, 1234
+  orig: 422, 1234
+  offset: 0, 0
+  index: -1
+左腿
+  rotate: true
+  xy: 1917, 443
+  size: 913, 1257
+  orig: 913, 1257
+  offset: 0, 0
+  index: -1
+左阴唇
+  rotate: false
+  xy: 3479, 458
+  size: 38, 193
+  orig: 38, 193
+  offset: 0, 0
+  index: -1
+环
+  rotate: true
+  xy: 3920, 1
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+眉右
+  rotate: true
+  xy: 2695, 2100
+  size: 93, 77
+  orig: 93, 77
+  offset: 0, 0
+  index: -1
+眉左
+  rotate: true
+  xy: 1850, 2409
+  size: 141, 65
+  orig: 141, 65
+  offset: 0, 0
+  index: -1
+眼右
+  rotate: false
+  xy: 1722, 2372
+  size: 127, 92
+  orig: 127, 92
+  offset: 0, 0
+  index: -1
+眼左
+  rotate: false
+  xy: 1917, 2555
+  size: 158, 110
+  orig: 158, 110
+  offset: 0, 0
+  index: -1
+眼球
+  rotate: true
+  xy: 1850, 1268
+  size: 91, 57
+  orig: 91, 57
+  offset: 0, 0
+  index: -1
+瞳孔
+  rotate: true
+  xy: 1807, 2104
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+绷带2
+  rotate: true
+  xy: 3970, 29
+  size: 47, 122
+  orig: 47, 122
+  offset: 0, 0
+  index: -1
+绷带3
+  rotate: true
+  xy: 1722, 2098
+  size: 274, 85
+  orig: 274, 85
+  offset: 0, 0
+  index: -1
+绷带4
+  rotate: true
+  xy: 1807, 2163
+  size: 209, 41
+  orig: 209, 41
+  offset: 0, 0
+  index: -1
+绷带5
+  rotate: true
+  xy: 2183, 2558
+  size: 107, 129
+  orig: 107, 129
+  offset: 0, 0
+  index: -1
+绷带左腿
+  rotate: true
+  xy: 2924, 2086
+  size: 579, 626
+  orig: 579, 626
+  offset: 0, 0
+  index: -1
+羽毛阴影
+  rotate: false
+  xy: 1722, 1261
+  size: 128, 95
+  orig: 128, 95
+  offset: 0, 0
+  index: -1
+耳环右
+  rotate: false
+  xy: 1722, 2464
+  size: 127, 201
+  orig: 127, 201
+  offset: 0, 0
+  index: -1
+胸部右
+  rotate: false
+  xy: 1915, 2099
+  size: 521, 451
+  orig: 521, 451
+  offset: 0, 0
+  index: -1
+胸部右穿衣
+  rotate: false
+  xy: 3552, 2651
+  size: 525, 451
+  orig: 525, 451
+  offset: 0, 0
+  index: -1
+胸部左穿衣
+  rotate: false
+  xy: 3552, 3333
+  size: 532, 474
+  orig: 532, 474
+  offset: 0, 0
+  index: -1
+舌头
+  rotate: false
+  xy: 1850, 2350
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+裹尸布阳具
+  rotate: true
+  xy: 2924, 0
+  size: 443, 952
+  orig: 443, 952
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: false
+  xy: 0, 2665
+  size: 3552, 1431
+  orig: 3552, 1431
+  offset: 0, 0
+  index: -1
+阴部切片
+  rotate: false
+  xy: 3876, 76
+  size: 217, 390
+  orig: 217, 390
+  offset: 0, 0
+  index: -1
+项链
+  rotate: false
+  xy: 3174, 734
+  size: 338, 212
+  orig: 338, 212
+  offset: 0, 0
+  index: -1
+马赛克1
+  rotate: false
+  xy: 2312, 2558
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+
+nvwangtiaojiao2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+体液1
+  rotate: false
+  xy: 1489, 80
+  size: 308, 723
+  orig: 308, 723
+  offset: 0, 0
+  index: -1
+体液11
+  rotate: false
+  xy: 2369, 1470
+  size: 209, 302
+  orig: 209, 302
+  offset: 0, 0
+  index: -1
+体液15
+  rotate: false
+  xy: 2369, 1185
+  size: 274, 285
+  orig: 274, 285
+  offset: 0, 0
+  index: -1
+体液17
+  rotate: false
+  xy: 2358, 719
+  size: 123, 134
+  orig: 123, 134
+  offset: 0, 0
+  index: -1
+体液18
+  rotate: false
+  xy: 3232, 2370
+  size: 381, 224
+  orig: 381, 224
+  offset: 0, 0
+  index: -1
+体液19
+  rotate: false
+  xy: 3911, 3774
+  size: 185, 318
+  orig: 185, 318
+  offset: 0, 0
+  index: -1
+体液1a (1)
+  rotate: false
+  xy: 2197, 452
+  size: 161, 368
+  orig: 161, 368
+  offset: 0, 0
+  index: -1
+体液21
+  rotate: false
+  xy: 2843, 3446
+  size: 1068, 646
+  orig: 1068, 646
+  offset: 0, 0
+  index: -1
+体液3
+  rotate: true
+  xy: 878, 1815
+  size: 392, 750
+  orig: 392, 750
+  offset: 0, 0
+  index: -1
+体液5
+  rotate: true
+  xy: 1484, 1201
+  size: 97, 749
+  orig: 97, 749
+  offset: 0, 0
+  index: -1
+体液7
+  rotate: false
+  xy: 1363, 3217
+  size: 58, 155
+  orig: 58, 155
+  offset: 0, 0
+  index: -1
+体液9
+  rotate: true
+  xy: 2899, 2390
+  size: 72, 332
+  orig: 72, 332
+  offset: 0, 0
+  index: -1
+僵尸A头
+  rotate: false
+  xy: 878, 2207
+  size: 597, 903
+  orig: 597, 903
+  offset: 0, 0
+  index: -1
+僵尸A帽
+  rotate: false
+  xy: 3652, 2598
+  size: 320, 848
+  orig: 320, 848
+  offset: 0, 0
+  index: -1
+僵尸A躯干
+  rotate: false
+  xy: 1628, 1772
+  size: 789, 454
+  orig: 789, 454
+  offset: 0, 0
+  index: -1
+僵尸C下巴1
+  rotate: false
+  xy: 2314, 853
+  size: 169, 162
+  orig: 169, 162
+  offset: 0, 0
+  index: -1
+僵尸C头
+  rotate: true
+  xy: 0, 47
+  size: 701, 976
+  orig: 701, 976
+  offset: 0, 0
+  index: -1
+僵尸C左手臂
+  rotate: false
+  xy: 2124, 2442
+  size: 442, 930
+  orig: 442, 930
+  offset: 0, 0
+  index: -1
+僵尸C护腕左
+  rotate: true
+  xy: 976, 81
+  size: 722, 513
+  orig: 722, 513
+  offset: 0, 0
+  index: -1
+僵尸C舌头
+  rotate: true
+  xy: 3911, 3447
+  size: 327, 120
+  orig: 327, 120
+  offset: 0, 0
+  index: -1
+僵尸C躯干
+  rotate: false
+  xy: 0, 3110
+  size: 1363, 982
+  orig: 1363, 982
+  offset: 0, 0
+  index: -1
+僵尸c左手
+  rotate: false
+  xy: 1667, 820
+  size: 647, 184
+  orig: 647, 184
+  offset: 0, 0
+  index: -1
+内裤
+  rotate: true
+  xy: 0, 748
+  size: 1030, 888
+  orig: 1030, 888
+  offset: 0, 0
+  index: -1
+刘海2
+  rotate: true
+  xy: 2557, 2247
+  size: 141, 149
+  orig: 141, 149
+  offset: 0, 0
+  index: -1
+刘海5
+  rotate: true
+  xy: 1667, 1004
+  size: 197, 591
+  orig: 197, 591
+  offset: 0, 0
+  index: -1
+右手
+  rotate: false
+  xy: 1475, 2520
+  size: 649, 852
+  orig: 649, 852
+  offset: 0, 0
+  index: -1
+右腿
+  rotate: false
+  xy: 0, 1778
+  size: 878, 1332
+  orig: 878, 1332
+  offset: 0, 0
+  index: -1
+嘴
+  rotate: false
+  xy: 2358, 631
+  size: 82, 88
+  orig: 82, 88
+  offset: 0, 0
+  index: -1
+嘴3
+  rotate: false
+  xy: 2421, 2266
+  size: 136, 176
+  orig: 136, 176
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 2006, 1323
+  size: 363, 449
+  orig: 363, 449
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: false
+  xy: 1890, 66
+  size: 235, 388
+  orig: 235, 388
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: true
+  xy: 1475, 2226
+  size: 294, 577
+  orig: 294, 577
+  offset: 0, 0
+  index: -1
+头发4
+  rotate: true
+  xy: 888, 803
+  size: 358, 779
+  orig: 358, 779
+  offset: 0, 0
+  index: -1
+头发7
+  rotate: true
+  xy: 2052, 2286
+  size: 156, 369
+  orig: 156, 369
+  offset: 0, 0
+  index: -1
+头饰2
+  rotate: false
+  xy: 2258, 1015
+  size: 263, 170
+  orig: 263, 170
+  offset: 0, 0
+  index: -1
+头饰c
+  rotate: true
+  xy: 1363, 3372
+  size: 720, 1480
+  orig: 720, 1480
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 3232, 2594
+  size: 420, 852
+  orig: 420, 852
+  offset: 0, 0
+  index: -1
+木阳具
+  rotate: false
+  xy: 2566, 2388
+  size: 333, 984
+  orig: 333, 984
+  offset: 0, 0
+  index: -1
+木阳具1
+  rotate: false
+  xy: 2899, 2462
+  size: 333, 984
+  orig: 333, 984
+  offset: 0, 0
+  index: -1
+牙印
+  rotate: false
+  xy: 0, 0
+  size: 162, 47
+  orig: 162, 47
+  offset: 0, 0
+  index: -1
+绷带6
+  rotate: true
+  xy: 1797, 114
+  size: 706, 93
+  orig: 706, 93
+  offset: 0, 0
+  index: -1
+绷带右腿
+  rotate: false
+  xy: 888, 1161
+  size: 596, 654
+  orig: 596, 654
+  offset: 0, 0
+  index: -1
+耳环左
+  rotate: false
+  xy: 2521, 1016
+  size: 136, 169
+  orig: 136, 169
+  offset: 0, 0
+  index: -1
+肛门
+  rotate: true
+  xy: 2125, 131
+  size: 321, 224
+  orig: 321, 224
+  offset: 0, 0
+  index: -1
+胸罩带
+  rotate: false
+  xy: 2052, 2230
+  size: 300, 56
+  orig: 300, 56
+  offset: 0, 0
+  index: -1
+胸部左
+  rotate: false
+  xy: 1484, 1298
+  size: 522, 474
+  orig: 522, 474
+  offset: 0, 0
+  index: -1
+脸上凸起
+  rotate: false
+  xy: 2706, 2249
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+马赛克
+  rotate: false
+  xy: 1890, 454
+  size: 307, 366
+  orig: 307, 366
+  offset: 0, 0
+  index: -1

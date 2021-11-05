@@ -1,0 +1,404 @@
+
+nvzhanshizhanli.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+丝带
+  rotate: false
+  xy: 677, 436
+  size: 278, 512
+  orig: 278, 512
+  offset: 0, 0
+  index: -1
+丝带0
+  rotate: false
+  xy: 3168, 2825
+  size: 149, 201
+  orig: 149, 201
+  offset: 0, 0
+  index: -1
+丝带1
+  rotate: true
+  xy: 2536, 3434
+  size: 660, 1315
+  orig: 660, 1315
+  offset: 0, 0
+  index: -1
+刘海1
+  rotate: false
+  xy: 3317, 2834
+  size: 153, 192
+  orig: 153, 192
+  offset: 0, 0
+  index: -1
+刘海2
+  rotate: true
+  xy: 3943, 178
+  size: 273, 133
+  orig: 273, 133
+  offset: 0, 0
+  index: -1
+刘海3
+  rotate: false
+  xy: 3824, 0
+  size: 119, 451
+  orig: 119, 451
+  offset: 0, 0
+  index: -1
+右手
+  rotate: true
+  xy: 2532, 3026
+  size: 408, 935
+  orig: 408, 935
+  offset: 0, 0
+  index: -1
+右眼睑
+  rotate: true
+  xy: 3943, 18
+  size: 160, 107
+  orig: 160, 107
+  offset: 0, 0
+  index: -1
+右瞳孔
+  rotate: true
+  xy: 677, 8
+  size: 92, 106
+  orig: 92, 106
+  offset: 0, 0
+  index: -1
+嘴1
+  rotate: false
+  xy: 84, 4
+  size: 135, 59
+  orig: 135, 59
+  offset: 0, 0
+  index: -1
+嘴2
+  rotate: false
+  xy: 334, 30
+  size: 119, 33
+  orig: 119, 33
+  offset: 0, 0
+  index: -1
+嘴3
+  rotate: false
+  xy: 242, 24
+  size: 92, 39
+  orig: 92, 39
+  offset: 0, 0
+  index: -1
+嘴巴
+  rotate: true
+  xy: 219, 23
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+图层 14
+  rotate: true
+  xy: 677, 100
+  size: 336, 278
+  orig: 336, 278
+  offset: 0, 0
+  index: -1
+图层 15
+  rotate: true
+  xy: 0, 63
+  size: 992, 677
+  orig: 992, 677
+  offset: 0, 0
+  index: -1
+头发
+  rotate: false
+  xy: 2536, 1170
+  size: 938, 906
+  orig: 938, 906
+  offset: 0, 0
+  index: -1
+左眼睑
+  rotate: false
+  xy: 783, 10
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+左瞳孔
+  rotate: false
+  xy: 873, 25
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+左腿
+  rotate: false
+  xy: 2536, 81
+  size: 832, 1089
+  orig: 832, 1089
+  offset: 0, 0
+  index: -1
+披风1
+  rotate: false
+  xy: 1859, 2824
+  size: 673, 1270
+  orig: 673, 1270
+  offset: 0, 0
+  index: -1
+披风2
+  rotate: false
+  xy: 310, 2067
+  size: 1549, 2027
+  orig: 1549, 2027
+  offset: 0, 0
+  index: -1
+枪
+  rotate: false
+  xy: 0, 1055
+  size: 310, 3039
+  orig: 310, 3039
+  offset: 0, 0
+  index: -1
+盾牌
+  rotate: true
+  xy: 1859, 2076
+  size: 748, 1644
+  orig: 748, 1644
+  offset: 0, 0
+  index: -1
+眉毛
+  rotate: false
+  xy: 0, 1
+  size: 84, 62
+  orig: 84, 62
+  offset: 0, 0
+  index: -1
+破衣1/图层 15
+  rotate: true
+  xy: 310, 1075
+  size: 992, 677
+  orig: 992, 677
+  offset: 0, 0
+  index: -1
+破衣1/披风2
+  rotate: false
+  xy: 987, 40
+  size: 1549, 2027
+  orig: 1549, 2027
+  offset: 0, 0
+  index: -1
+破衣1/肩甲右
+  rotate: false
+  xy: 3368, 0
+  size: 456, 451
+  orig: 456, 451
+  offset: 0, 0
+  index: -1
+破衣1/肩甲左
+  rotate: true
+  xy: 2532, 2824
+  size: 202, 318
+  orig: 202, 318
+  offset: 0, 0
+  index: -1
+破衣1/胸甲
+  rotate: true
+  xy: 3503, 2743
+  size: 691, 565
+  orig: 691, 565
+  offset: 0, 0
+  index: -1
+破衣1/腰带1
+  rotate: false
+  xy: 3851, 3583
+  size: 203, 511
+  orig: 203, 511
+  offset: 0, 0
+  index: -1
+破衣1/躯干
+  rotate: true
+  xy: 3368, 451
+  size: 545, 726
+  orig: 545, 726
+  offset: 0, 0
+  index: -1
+破衣2/胸甲
+  rotate: true
+  xy: 3503, 2052
+  size: 691, 565
+  orig: 691, 565
+  offset: 0, 0
+  index: -1
+红晕
+  rotate: false
+  xy: 677, 948
+  size: 305, 127
+  orig: 305, 127
+  offset: 0, 0
+  index: -1
+肩甲左
+  rotate: true
+  xy: 2850, 2824
+  size: 202, 318
+  orig: 202, 318
+  offset: 0, 0
+  index: -1
+胸甲
+  rotate: true
+  xy: 3474, 996
+  size: 691, 565
+  orig: 691, 565
+  offset: 0, 0
+  index: -1
+腰带
+  rotate: true
+  xy: 3851, 3441
+  size: 142, 106
+  orig: 142, 106
+  offset: 0, 0
+  index: -1
+马赛克1
+  rotate: true
+  xy: 3957, 3478
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+鬃毛2
+  rotate: false
+  xy: 3474, 1687
+  size: 612, 365
+  orig: 612, 365
+  offset: 0, 0
+  index: -1
+
+nvzhanshizhanli2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+刘海4
+  rotate: false
+  xy: 3963, 1532
+  size: 101, 503
+  orig: 101, 503
+  offset: 0, 0
+  index: -1
+右腿
+  rotate: false
+  xy: 748, 755
+  size: 786, 1280
+  orig: 786, 1280
+  offset: 0, 0
+  index: -1
+头盔左
+  rotate: true
+  xy: 3130, 766
+  size: 180, 374
+  orig: 180, 374
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 2320, 1471
+  size: 564, 810
+  orig: 564, 810
+  offset: 0, 0
+  index: -1
+破衣1/右腿
+  rotate: false
+  xy: 1534, 755
+  size: 786, 1280
+  orig: 786, 1280
+  offset: 0, 0
+  index: -1
+破衣1/图层 14
+  rotate: true
+  xy: 748, 419
+  size: 336, 278
+  orig: 336, 278
+  offset: 0, 0
+  index: -1
+破衣1/头盔左
+  rotate: false
+  xy: 3131, 392
+  size: 180, 374
+  orig: 180, 374
+  offset: 0, 0
+  index: -1
+破衣1/左手
+  rotate: true
+  xy: 2320, 907
+  size: 564, 810
+  orig: 564, 810
+  offset: 0, 0
+  index: -1
+破衣1/左腿
+  rotate: false
+  xy: 3131, 946
+  size: 832, 1089
+  orig: 832, 1089
+  offset: 0, 0
+  index: -1
+破衣1/披风1
+  rotate: true
+  xy: 1861, 82
+  size: 673, 1270
+  orig: 673, 1270
+  offset: 0, 0
+  index: -1
+破衣1/盾牌
+  rotate: false
+  xy: 0, 391
+  size: 748, 1644
+  orig: 748, 1644
+  offset: 0, 0
+  index: -1
+破衣1/脖子围巾
+  rotate: false
+  xy: 408, 12
+  size: 496, 379
+  orig: 496, 379
+  offset: 0, 0
+  index: -1
+肩甲右
+  rotate: false
+  xy: 3627, 292
+  size: 456, 451
+  orig: 456, 451
+  offset: 0, 0
+  index: -1
+脖子围巾
+  rotate: false
+  xy: 3131, 13
+  size: 496, 379
+  orig: 496, 379
+  offset: 0, 0
+  index: -1
+脸
+  rotate: false
+  xy: 0, 11
+  size: 408, 380
+  orig: 408, 380
+  offset: 0, 0
+  index: -1
+腰带1
+  rotate: true
+  xy: 3504, 743
+  size: 203, 511
+  orig: 203, 511
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: false
+  xy: 1316, 29
+  size: 545, 726
+  orig: 545, 726
+  offset: 0, 0
+  index: -1
+鬃毛1
+  rotate: false
+  xy: 904, 0
+  size: 412, 419
+  orig: 412, 419
+  offset: 0, 0
+  index: -1

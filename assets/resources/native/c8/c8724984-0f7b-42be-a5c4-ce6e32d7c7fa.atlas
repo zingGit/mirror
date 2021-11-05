@@ -1,0 +1,264 @@
+
+longnvtuzhanli.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+刘海1
+  rotate: true
+  xy: 3798, 36
+  size: 376, 244
+  orig: 376, 244
+  offset: 0, 0
+  index: -1
+右眉
+  rotate: false
+  xy: 3135, 1901
+  size: 121, 28
+  orig: 121, 28
+  offset: 0, 0
+  index: -1
+右眼
+  rotate: false
+  xy: 107, 2
+  size: 142, 103
+  orig: 142, 103
+  offset: 0, 0
+  index: -1
+右眼2
+  rotate: false
+  xy: 1296, 1841
+  size: 155, 56
+  orig: 155, 56
+  offset: 0, 0
+  index: -1
+右肩
+  rotate: true
+  xy: 3383, 54
+  size: 358, 415
+  orig: 358, 415
+  offset: 0, 0
+  index: -1
+右闭眼
+  rotate: false
+  xy: 2908, 5
+  size: 179, 143
+  orig: 179, 143
+  offset: 0, 0
+  index: -1
+后头发
+  rotate: true
+  xy: 0, 105
+  size: 1733, 1790
+  orig: 1733, 1790
+  offset: 0, 0
+  index: -1
+嘴1
+  rotate: true
+  xy: 4013, 2235
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+嘴2
+  rotate: false
+  xy: 1451, 1854
+  size: 113, 43
+  orig: 113, 43
+  offset: 0, 0
+  index: -1
+嘴3
+  rotate: true
+  xy: 4006, 503
+  size: 98, 86
+  orig: 98, 86
+  offset: 0, 0
+  index: -1
+嘴4
+  rotate: false
+  xy: 1710, 1856
+  size: 79, 41
+  orig: 79, 41
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 3135, 1929
+  size: 878, 862
+  orig: 878, 862
+  offset: 0, 0
+  index: -1
+尾巴
+  rotate: false
+  xy: 1296, 1897
+  size: 1839, 894
+  orig: 1839, 894
+  offset: 0, 0
+  index: -1
+左头发
+  rotate: true
+  xy: 3383, 412
+  size: 189, 623
+  orig: 189, 623
+  offset: 0, 0
+  index: -1
+左眉
+  rotate: false
+  xy: 1564, 1855
+  size: 146, 42
+  orig: 146, 42
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 249, 6
+  size: 149, 99
+  orig: 149, 99
+  offset: 0, 0
+  index: -1
+左眼2
+  rotate: true
+  xy: 4013, 2312
+  size: 167, 62
+  orig: 167, 62
+  offset: 0, 0
+  index: -1
+左肩
+  rotate: false
+  xy: 2433, 144
+  size: 475, 457
+  orig: 475, 457
+  offset: 0, 0
+  index: -1
+眼镜
+  rotate: true
+  xy: 4013, 2479
+  size: 322, 62
+  orig: 322, 62
+  offset: 0, 0
+  index: -1
+破衣1/左肩
+  rotate: false
+  xy: 2908, 148
+  size: 475, 453
+  orig: 475, 453
+  offset: 0, 0
+  index: -1
+破衣1/胸部
+  rotate: false
+  xy: 1790, 89
+  size: 643, 512
+  orig: 643, 512
+  offset: 0, 0
+  index: -1
+破衣1/躯干
+  rotate: true
+  xy: 1296, 2791
+  size: 1296, 2249
+  orig: 1296, 2249
+  offset: 0, 0
+  index: -1
+破衣2/胸部
+  rotate: true
+  xy: 3545, 2801
+  size: 643, 512
+  orig: 643, 512
+  offset: 0, 0
+  index: -1
+破衣2/躯干
+  rotate: true
+  xy: 1790, 601
+  size: 1296, 2249
+  orig: 1296, 2249
+  offset: 0, 0
+  index: -1
+红晕1
+  rotate: false
+  xy: 3087, 28
+  size: 286, 120
+  orig: 286, 120
+  offset: 0, 0
+  index: -1
+红晕2
+  rotate: false
+  xy: 2433, 13
+  size: 226, 131
+  orig: 226, 131
+  offset: 0, 0
+  index: -1
+胸部
+  rotate: true
+  xy: 3545, 3444
+  size: 643, 512
+  orig: 643, 512
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: false
+  xy: 0, 1838
+  size: 1296, 2249
+  orig: 1296, 2249
+  offset: 0, 0
+  index: -1
+领带
+  rotate: true
+  xy: 2659, 48
+  size: 96, 230
+  orig: 96, 230
+  offset: 0, 0
+  index: -1
+马赛克1
+  rotate: true
+  xy: 0, 0
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+
+longnvtuzhanli2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右头发
+  rotate: true
+  xy: 1226, 629
+  size: 245, 477
+  orig: 245, 477
+  offset: 0, 0
+  index: -1
+左闭眼
+  rotate: false
+  xy: 1226, 505
+  size: 172, 124
+  orig: 172, 124
+  offset: 0, 0
+  index: -1
+留海2
+  rotate: true
+  xy: 1703, 638
+  size: 236, 314
+  orig: 236, 314
+  offset: 0, 0
+  index: -1
+破衣1/右肩
+  rotate: false
+  xy: 878, 459
+  size: 348, 415
+  orig: 348, 415
+  offset: 0, 0
+  index: -1
+破衣1/头
+  rotate: false
+  xy: 0, 12
+  size: 878, 862
+  orig: 878, 862
+  offset: 0, 0
+  index: -1
+红晕
+  rotate: true
+  xy: 878, 0
+  size: 459, 251
+  orig: 459, 251
+  offset: 0, 0
+  index: -1

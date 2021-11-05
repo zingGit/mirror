@@ -1,0 +1,215 @@
+
+nvcike.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CG/刺客/拆分/马赛克1
+  rotate: false
+  xy: 3818, 3889
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+站立/女刺客/唾液1
+  rotate: false
+  xy: 3582, 3768
+  size: 167, 109
+  orig: 167, 109
+  offset: 0, 0
+  index: -1
+站立/女刺客/嘴1
+  rotate: true
+  xy: 3749, 3774
+  size: 103, 41
+  orig: 103, 41
+  offset: 0, 0
+  index: -1
+站立/女刺客/嘴2_1
+  rotate: false
+  xy: 400, 183
+  size: 120, 51
+  orig: 120, 51
+  offset: 0, 0
+  index: -1
+站立/女刺客/嘴2_2
+  rotate: false
+  xy: 3582, 3678
+  size: 114, 33
+  orig: 114, 33
+  offset: 0, 0
+  index: -1
+站立/女刺客/嘴3
+  rotate: false
+  xy: 3996, 4029
+  size: 91, 53
+  orig: 91, 53
+  offset: 0, 0
+  index: -1
+站立/女刺客/嘴4
+  rotate: false
+  xy: 3818, 3996
+  size: 178, 86
+  orig: 178, 86
+  offset: 0, 0
+  index: -1
+站立/女刺客/图层眼底 11
+  rotate: false
+  xy: 2670, 885
+  size: 125, 102
+  orig: 125, 102
+  offset: 0, 0
+  index: -1
+站立/女刺客/头
+  rotate: false
+  xy: 2427, 987
+  size: 894, 751
+  orig: 894, 751
+  offset: 0, 0
+  index: -1
+站立/女刺客/头发
+  rotate: true
+  xy: 0, 234
+  size: 1504, 2427
+  orig: 1504, 2427
+  offset: 0, 0
+  index: -1
+站立/女刺客/泪水
+  rotate: false
+  xy: 3549, 1726
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+站立/女刺客/眉毛
+  rotate: false
+  xy: 3321, 1578
+  size: 123, 97
+  orig: 123, 97
+  offset: 0, 0
+  index: -1
+站立/女刺客/眼睑
+  rotate: false
+  xy: 2427, 815
+  size: 160, 69
+  orig: 160, 69
+  offset: 0, 0
+  index: -1
+站立/女刺客/眼睛1
+  rotate: true
+  xy: 3321, 1453
+  size: 125, 72
+  orig: 125, 72
+  offset: 0, 0
+  index: -1
+站立/女刺客/眼睛2
+  rotate: false
+  xy: 2427, 745
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+站立/女刺客/眼睛3
+  rotate: false
+  xy: 2795, 899
+  size: 116, 88
+  orig: 116, 88
+  offset: 0, 0
+  index: -1
+站立/女刺客/眼睛4
+  rotate: false
+  xy: 219, 92
+  size: 138, 73
+  orig: 138, 73
+  offset: 0, 0
+  index: -1
+站立/女刺客/睫毛
+  rotate: false
+  xy: 3582, 3711
+  size: 158, 57
+  orig: 158, 57
+  offset: 0, 0
+  index: -1
+站立/女刺客/瞳孔
+  rotate: false
+  xy: 3444, 1622
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+站立/女刺客/脖子
+  rotate: false
+  xy: 0, 79
+  size: 219, 155
+  orig: 219, 155
+  offset: 0, 0
+  index: -1
+站立/女刺客/脸红1
+  rotate: false
+  xy: 3321, 1675
+  size: 228, 63
+  orig: 228, 63
+  offset: 0, 0
+  index: -1
+站立/女刺客/脸红2
+  rotate: false
+  xy: 0, 0
+  size: 171, 79
+  orig: 171, 79
+  offset: 0, 0
+  index: -1
+站立/女刺客/脸青
+  rotate: false
+  xy: 2427, 884
+  size: 243, 103
+  orig: 243, 103
+  offset: 0, 0
+  index: -1
+站立/女刺客/舌头1
+  rotate: false
+  xy: 2587, 826
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+站立/女刺客/舌头2
+  rotate: false
+  xy: 219, 165
+  size: 181, 69
+  orig: 181, 69
+  offset: 0, 0
+  index: -1
+站立/女刺客/躯干
+  rotate: false
+  xy: 0, 1738
+  size: 1791, 2344
+  orig: 1791, 2344
+  offset: 0, 0
+  index: -1
+站立/女刺客/躯干_1
+  rotate: false
+  xy: 1791, 1738
+  size: 1791, 2344
+  orig: 1791, 2344
+  offset: 0, 0
+  index: -1
+站立/女刺客/黑额头
+  rotate: false
+  xy: 3582, 3877
+  size: 236, 205
+  orig: 236, 205
+  offset: 0, 0
+  index: -1
+
+nvcike2.png
+size: 2048,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+站立/女刺客/躯干_2
+  rotate: false
+  xy: 0, 0
+  size: 1791, 2344
+  orig: 1791, 2344
+  offset: 0, 0
+  index: -1
